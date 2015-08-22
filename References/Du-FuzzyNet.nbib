@@ -1,0 +1,66 @@
+
+PMID- 16366260
+OWN - NLM
+STAT- MEDLINE
+DA  - 20051221
+DCOM- 20060119
+LR  - 20061115
+IS  - 1083-4419 (Print)
+IS  - 1083-4419 (Linking)
+VI  - 35
+IP  - 6
+DP  - 2005 Dec
+TI  - Modeling gene expression networks using fuzzy logic.
+PG  - 1351-9
+AB  - Gene regulatory networks model regulation in living organisms. Fuzzy logic can
+      effectively model gene regulation and interaction to accurately reflect the
+      underlying biology. A new multiscale fuzzy clustering method allows genes to
+      interact between regulatory pathways and across different conditions at different
+      levels of detail. Fuzzy cluster centers can be used to quickly discover causal
+      relationships between groups of coregulated genes. Fuzzy measures weight expert
+      knowledge and help quantify uncertainty about the functions of genes using
+      annotations and the gene ontology database to confirm some of the interactions.
+      The method is illustrated using gene expression data from an experiment on
+      carbohydrate metabolism in the model plant Arabidopsis thaliana. Key gene
+      regulatory relationships were evaluated using information from the gene ontology 
+      database. A new regulatory relationship concerning trehalose regulation of
+      carbohydrate metabolism was also discovered in the extracted network.
+FAU - Du, Pan
+AU  - Du P
+AD  - Virtual Reality Applications Center, Iowa State University, Ames 50011-3060, USA.
+FAU - Gong, Jian
+AU  - Gong J
+FAU - Syrkin Wurtele, Eve
+AU  - Syrkin Wurtele E
+FAU - Dickerson, Julie A
+AU  - Dickerson JA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - IEEE Trans Syst Man Cybern B Cybern
+JT  - IEEE transactions on systems, man, and cybernetics. Part B, Cybernetics : a
+      publication of the IEEE Systems, Man, and Cybernetics Society
+JID - 9890044
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Animals
+MH  - Arabidopsis/metabolism
+MH  - Arabidopsis Proteins/metabolism
+MH  - Carbohydrate Metabolism/physiology
+MH  - Computer Simulation
+MH  - *Fuzzy Logic
+MH  - Gene Expression Regulation/*physiology
+MH  - Humans
+MH  - *Models, Biological
+MH  - *Models, Statistical
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Signal Transduction/*physiology
+MH  - Transcription Factors/*metabolism
+EDAT- 2005/12/22 09:00
+MHDA- 2006/01/20 09:00
+CRDT- 2005/12/22 09:00
+PST - ppublish
+SO  - IEEE Trans Syst Man Cybern B Cybern. 2005 Dec;35(6):1351-9.

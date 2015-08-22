@@ -1,0 +1,134 @@
+
+PMID- 25342659
+OWN - NLM
+STAT- MEDLINE
+DA  - 20141128
+DCOM- 20141216
+LR  - 20150311
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 346
+IP  - 6213
+DP  - 2014 Nov 28
+TI  - Systems biology. Conditional density-based analysis of T cell signaling in
+      single-cell data.
+PG  - 1250689
+LID - 10.1126/science.1250689 [doi]
+LID - 1250689 [pii]
+AB  - Cellular circuits sense the environment, process signals, and compute decisions
+      using networks of interacting proteins. To model such a system, the abundance of 
+      each activated protein species can be described as a stochastic function of the
+      abundance of other proteins. High-dimensional single-cell technologies, such as
+      mass cytometry, offer an opportunity to characterize signaling circuit-wide.
+      However, the challenge of developing and applying computational approaches to
+      interpret such complex data remains. Here, we developed computational methods,
+      based on established statistical concepts, to characterize signaling network
+      relationships by quantifying the strengths of network edges and deriving
+      signaling response functions. In comparing signaling between naive and
+      antigen-exposed CD4(+) T lymphocytes, we find that although these two cell
+      subtypes had similarly wired networks, naive cells transmitted more information
+      along a key signaling cascade than did antigen-exposed cells. We validated our
+      characterization on mice lacking the extracellular-regulated mitogen-activated
+      protein kinase (MAPK) ERK2, which showed stronger influence of pERK on pS6
+      (phosphorylated-ribosomal protein S6), in naive cells as compared with
+      antigen-exposed cells, as predicted. We demonstrate that by using cell-to-cell
+      variation inherent in single-cell data, we can derive response functions
+      underlying molecular circuits and drive the understanding of how cells process
+      signals.
+CI  - Copyright (c) 2014, American Association for the Advancement of Science.
+FAU - Krishnaswamy, Smita
+AU  - Krishnaswamy S
+AD  - Department of Biological Sciences, Department of Systems Biology, Columbia
+      University, New York, NY, USA.
+FAU - Spitzer, Matthew H
+AU  - Spitzer MH
+AD  - Baxter Laboratory in Stem Cell Biology, Department of Microbiology and
+      Immunology, Stanford University, Stanford, CA, USA.
+FAU - Mingueneau, Michael
+AU  - Mingueneau M
+AD  - Division of Immunology, Department of Microbiology and Immunobiology, Harvard
+      Medical School, Boston, MA, USA.
+FAU - Bendall, Sean C
+AU  - Bendall SC
+AD  - Baxter Laboratory in Stem Cell Biology, Department of Microbiology and
+      Immunology, Stanford University, Stanford, CA, USA.
+FAU - Litvin, Oren
+AU  - Litvin O
+AD  - Department of Biological Sciences, Department of Systems Biology, Columbia
+      University, New York, NY, USA.
+FAU - Stone, Erica
+AU  - Stone E
+AD  - Molecular Biology Section, Division of Biological Sciences, Department of
+      Cellular and Molecular Medicine, University of California San Diego, La Jolla,
+      CA, USA.
+FAU - Pe'er, Dana
+AU  - Pe'er D
+AD  - Department of Biological Sciences, Department of Systems Biology, Columbia
+      University, New York, NY, USA. dpeer@biology.columbia.edu.
+FAU - Nolan, Garry P
+AU  - Nolan GP
+AD  - Baxter Laboratory in Stem Cell Biology, Department of Microbiology and
+      Immunology, Stanford University, Stanford, CA, USA.
+LA  - eng
+GR  - 1K01DK095008/DK/NIDDK NIH HHS/United States
+GR  - 1R01CA130826/CA/NCI NIH HHS/United States
+GR  - 1U54CA121852-01A1/CA/NCI NIH HHS/United States
+GR  - CA 09-011/CA/NCI NIH HHS/United States
+GR  - HHSN268201000034C/HV/NHLBI NIH HHS/United States
+GR  - HHSN272200700038C/PHS HHS/United States
+GR  - HV-10-05/HV/NHLBI NIH HHS/United States
+GR  - K01 DK095008/DK/NIDDK NIH HHS/United States
+GR  - P01 CA034233/CA/NCI NIH HHS/United States
+GR  - P01 CA034233/CA/NCI NIH HHS/United States
+GR  - R00 GM104148/GM/NIGMS NIH HHS/United States
+GR  - R01 CA130826/CA/NCI NIH HHS/United States
+GR  - S10RR027582-01/RR/NCRR NIH HHS/United States
+GR  - U19 AI057229/AI/NIAID NIH HHS/United States
+GR  - U19 AI057229/AI/NIAID NIH HHS/United States
+GR  - U19 AI100627/AI/NIAID NIH HHS/United States
+GR  - U54 CA149145/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Validation Studies
+DEP - 20141023
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+RN  - 0 (Receptors, Antigen, T-Cell)
+RN  - 0 (Ribosomal Protein S6)
+RN  - 0 (ribosomal protein S6, mouse)
+RN  - EC 2.7.10.- (PERK kinase)
+RN  - EC 2.7.11.1 (eIF-2 Kinase)
+RN  - EC 2.7.11.24 (Mapk1 protein, mouse)
+RN  - EC 2.7.11.24 (Mitogen-Activated Protein Kinase 1)
+SB  - IM
+MH  - Animals
+MH  - CD4-Positive T-Lymphocytes/*immunology
+MH  - Computer Simulation
+MH  - Image Cytometry
+MH  - Male
+MH  - Mice
+MH  - Mice, Mutant Strains
+MH  - Mitogen-Activated Protein Kinase 1/genetics
+MH  - Receptors, Antigen, T-Cell/*metabolism
+MH  - Ribosomal Protein S6/metabolism
+MH  - Signal Transduction
+MH  - Single-Cell Analysis/*methods
+MH  - Systems Biology/*methods
+MH  - eIF-2 Kinase/metabolism
+PMC - PMC4334155
+MID - NIHMS663157
+OID - NLM: NIHMS663157
+OID - NLM: PMC4334155
+EDAT- 2014/10/25 06:00
+MHDA- 2014/12/17 06:00
+CRDT- 2014/10/25 06:00
+PHST- 2014/10/23 [aheadofprint]
+AID - science.1250689 [pii]
+AID - 10.1126/science.1250689 [doi]
+PST - ppublish
+SO  - Science. 2014 Nov 28;346(6213):1250689. doi: 10.1126/science.1250689. Epub 2014
+      Oct 23.

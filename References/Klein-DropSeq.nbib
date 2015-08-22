@@ -1,0 +1,114 @@
+
+PMID- 26000487
+OWN - NLM
+STAT- MEDLINE
+DA  - 20150524
+DCOM- 20150729
+LR  - 20150815
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Linking)
+VI  - 161
+IP  - 5
+DP  - 2015 May 21
+TI  - Droplet barcoding for single-cell transcriptomics applied to embryonic stem
+      cells.
+PG  - 1187-201
+LID - 10.1016/j.cell.2015.04.044 [doi]
+LID - S0092-8674(15)00500-0 [pii]
+AB  - It has long been the dream of biologists to map gene expression at the
+      single-cell level. With such data one might track heterogeneous cell
+      sub-populations, and infer regulatory relationships between genes and pathways.
+      Recently, RNA sequencing has achieved single-cell resolution. What is limiting is
+      an effective way to routinely isolate and process large numbers of individual
+      cells for quantitative in-depth sequencing. We have developed a high-throughput
+      droplet-microfluidic approach for barcoding the RNA from thousands of individual 
+      cells for subsequent analysis by next-generation sequencing. The method shows a
+      surprisingly low noise profile and is readily adaptable to other sequencing-based
+      assays. We analyzed mouse embryonic stem cells, revealing in detail the
+      population structure and the heterogeneous onset of differentiation after
+      leukemia inhibitory factor (LIF) withdrawal. The reproducibility of these
+      high-throughput single-cell data allowed us to deconstruct cell populations and
+      infer gene expression relationships. VIDEO ABSTRACT.
+CI  - Copyright (c) 2015 Elsevier Inc. All rights reserved.
+FAU - Klein, Allon M
+AU  - Klein AM
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Mazutis, Linas
+AU  - Mazutis L
+AD  - School of Engineering and Applied Sciences (SEAS), Harvard University, Cambridge,
+      MA 02138, USA; Vilnius University Institute of Biotechnology, Vilnius LT-02241,
+      Lithuania.
+FAU - Akartuna, Ilke
+AU  - Akartuna I
+AD  - School of Engineering and Applied Sciences (SEAS), Harvard University, Cambridge,
+      MA 02138, USA.
+FAU - Tallapragada, Naren
+AU  - Tallapragada N
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Veres, Adrian
+AU  - Veres A
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA;
+      Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, 
+      MA 02138, USA; Harvard Stem Cell Institute, Harvard University, Cambridge, MA
+      02138, USA.
+FAU - Li, Victor
+AU  - Li V
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Peshkin, Leonid
+AU  - Peshkin L
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Weitz, David A
+AU  - Weitz DA
+AD  - School of Engineering and Applied Sciences (SEAS), Harvard University, Cambridge,
+      MA 02138, USA. Electronic address: weitz@seas.harvard.edu.
+FAU - Kirschner, Marc W
+AU  - Kirschner MW
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.
+      Electronic address: marc@hms.harvard.edu.
+LA  - eng
+SI  - GEO/GSE65525
+GR  - 5R01HD073104-03/HD/NICHD NIH HHS/United States
+GR  - P01 GM096971/GM/NIGMS NIH HHS/United States
+GR  - R01 EB014703/EB/NIBIB NIH HHS/United States
+GR  - R01 GM026875/GM/NIGMS NIH HHS/United States
+GR  - R01 GM026875/GM/NIGMS NIH HHS/United States
+GR  - R01 GM103785/GM/NIGMS NIH HHS/United States
+GR  - R01 GM103785/GM/NIGMS NIH HHS/United States
+GR  - R01 HD073104/HD/NICHD NIH HHS/United States
+GR  - R01 HD073104/HD/NICHD NIH HHS/United States
+GR  - R21 AI101291/AI/NIAID NIH HHS/United States
+GR  - R21 DK098818/DK/NIDDK NIH HHS/United States
+GR  - R21DK098818/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+SB  - IM
+CIN - Mol Cell. 2015 May 21;58(4):563-4. PMID: 26000840
+MH  - Animals
+MH  - Embryonic Stem Cells/*cytology/metabolism
+MH  - Gene Expression Profiling/*methods
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Mice
+MH  - *Microfluidic Analytical Techniques
+MH  - Sequence Analysis, RNA/methods
+MH  - Single-Cell Analysis/*methods
+PMC - PMC4441768
+MID - NIHMS685995
+OID - NLM: NIHMS685995 [Available on 05/21/16]
+OID - NLM: PMC4441768 [Available on 05/21/16]
+EDAT- 2015/05/23 06:00
+MHDA- 2015/07/30 06:00
+CRDT- 2015/05/23 06:00
+PMCR- 2016/05/21 00:00
+PHST- 2014/11/09 [received]
+PHST- 2015/02/23 [revised]
+PHST- 2015/04/20 [accepted]
+AID - S0092-8674(15)00500-0 [pii]
+AID - 10.1016/j.cell.2015.04.044 [doi]
+PST - ppublish
+SO  - Cell. 2015 May 21;161(5):1187-201. doi: 10.1016/j.cell.2015.04.044.

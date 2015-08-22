@@ -1,0 +1,78 @@
+
+PMID- 26002886
+OWN - NLM
+STAT- Publisher
+DA  - 20150627
+LR  - 20150627
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+DP  - 2015 May 21
+TI  - Diffusion maps for high-dimensional single-cell analysis of differentiation data.
+LID - btv325 [pii]
+AB  - MOTIVATION: Single-cell technologies have recently gained popularity in cellular 
+      differentiation studies regarding their ability to resolve potential
+      heterogeneities in cell populations. Analyzing such high-dimensional single-cell 
+      data has its own statistical and computational challenges. Popular multivariate
+      approaches are based on data normalization, followed by dimension reduction and
+      clustering to identify subgroups. However, in the case of cellular
+      differentiation, we would not expect clear clusters to be present but instead
+      expect the cells to follow continuous branching lineages. RESULTS: Here, we
+      propose the use of diffusion maps to deal with the problem of defining
+      differentiation trajectories. We adapt this method to single-cell data by
+      adequate choice of kernel width and inclusion of uncertainties or missing
+      measurement values, which enables the establishment of a pseudotemporal ordering 
+      of single cells in a high-dimensional gene expression space. We expect this
+      output to reflect cell differentiation trajectories, where the data originates
+      from intrinsic diffusion-like dynamics. Starting from a pluripotent stage, cells 
+      move smoothly within the transcriptional landscape towards more differentiated
+      states with some stochasticity along their path. We demonstrate the robustness of
+      our method with respect to extrinsic noise (e.g. measurement noise) and sampling 
+      density heterogeneities on simulated toy data as well as two single-cell
+      quantitative polymerase chain reaction datasets (i.e. mouse haematopoietic stem
+      cells and mouse embryonic stem cells) and an RNA-Seq data of human
+      pre-implantation embryos. We show that diffusion maps perform considerably better
+      than Principal Component Analysis and are advantageous over other techniques for 
+      non-linear dimension reduction such as t-distributed Stochastic Neighbour
+      Embedding for preserving the global structures and pseudotemporal ordering of
+      cells. AVAILABILITY AND IMPLEMENTATION: The Matlab implementation of diffusion
+      maps for single-cell data is available at
+      https://www.helmholtz-muenchen.de/icb/single-cell-diffusion-map. CONTACT:
+      fbuettner.phys@gmail.com, fabian.theis@helmholtz-muenchen.deSupplementary
+      information: Supplementary data are available at Bioinformatics online.
+CI  - (c) The Author 2015. Published by Oxford University Press. All rights reserved.
+      For Permissions, please e-mail: journals.permissions@oup.com.
+FAU - Haghverdi, Laleh
+AU  - Haghverdi L
+AD  - Institute of Computational Biology, Helmholtz Zentrum Munchen 85764 Neuherberg,
+      Germany and Department of Mathematics, Technische Universitat Munchen 85748
+      Garching, Germany Institute of Computational Biology, Helmholtz Zentrum Munchen
+      85764 Neuherberg, Germany and Department of Mathematics, Technische Universitat
+      Munchen 85748 Garching, Germany.
+FAU - Buettner, Florian
+AU  - Buettner F
+AD  - Institute of Computational Biology, Helmholtz Zentrum Munchen 85764 Neuherberg,
+      Germany and Department of Mathematics, Technische Universitat Munchen 85748
+      Garching, Germany.
+FAU - Theis, Fabian J
+AU  - Theis FJ
+AD  - Institute of Computational Biology, Helmholtz Zentrum Munchen 85764 Neuherberg,
+      Germany and Department of Mathematics, Technische Universitat Munchen 85748
+      Garching, Germany Institute of Computational Biology, Helmholtz Zentrum Munchen
+      85764 Neuherberg, Germany and Department of Mathematics, Technische Universitat
+      Munchen 85748 Garching, Germany.
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20150521
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+EDAT- 2015/05/24 06:00
+MHDA- 2015/05/24 06:00
+CRDT- 2015/05/24 06:00
+PHST- 2014/07/31 [received]
+PHST- 2015/05/18 [accepted]
+PHST- 2015/05/21 [aheadofprint]
+AID - btv325 [pii]
+AID - 10.1093/bioinformatics/btv325 [doi]
+PST - aheadofprint
+SO  - Bioinformatics. 2015 May 21. pii: btv325.

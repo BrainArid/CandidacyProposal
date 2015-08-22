@@ -1,0 +1,109 @@
+
+PMID- 23685480
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130611
+DCOM- 20140214
+LR  - 20150528
+IS  - 1546-1696 (Electronic)
+IS  - 1087-0156 (Linking)
+VI  - 31
+IP  - 6
+DP  - 2013 Jun
+TI  - viSNE enables visualization of high dimensional single-cell data and reveals
+      phenotypic heterogeneity of leukemia.
+PG  - 545-52
+LID - 10.1038/nbt.2594 [doi]
+AB  - New high-dimensional, single-cell technologies offer unprecedented resolution in 
+      the analysis of heterogeneous tissues. However, because these technologies can
+      measure dozens of parameters simultaneously in individual cells, data
+      interpretation can be challenging. Here we present viSNE, a tool that allows one 
+      to map high-dimensional cytometry data onto two dimensions, yet conserve the
+      high-dimensional structure of the data. viSNE plots individual cells in a visual 
+      similar to a scatter plot, while using all pairwise distances in high dimension
+      to determine each cell's location in the plot. We integrated mass cytometry with 
+      viSNE to map healthy and cancerous bone marrow samples. Healthy bone marrow
+      automatically maps into a consistent shape, whereas leukemia samples map into
+      malformed shapes that are distinct from healthy bone marrow and from each other. 
+      We also use viSNE and mass cytometry to compare leukemia diagnosis and relapse
+      samples, and to identify a rare leukemia population reminiscent of minimal
+      residual disease. viSNE can be applied to any multi-dimensional single-cell
+      technology.
+FAU - Amir, El-ad David
+AU  - Amir el-AD
+AD  - Department of Biological Sciences, Columbia Initiative for Systems Biology,
+      Columbia University, New York, New York, USA.
+FAU - Davis, Kara L
+AU  - Davis KL
+FAU - Tadmor, Michelle D
+AU  - Tadmor MD
+FAU - Simonds, Erin F
+AU  - Simonds EF
+FAU - Levine, Jacob H
+AU  - Levine JH
+FAU - Bendall, Sean C
+AU  - Bendall SC
+FAU - Shenfeld, Daniel K
+AU  - Shenfeld DK
+FAU - Krishnaswamy, Smita
+AU  - Krishnaswamy S
+FAU - Nolan, Garry P
+AU  - Nolan GP
+FAU - Pe'er, Dana
+AU  - Pe'er D
+LA  - eng
+GR  - 1-DP2-OD002414-01/OD/NIH HHS/United States
+GR  - 1R01CA130826/CA/NCI NIH HHS/United States
+GR  - 1U54CA121852-01A1/CA/NCI NIH HHS/United States
+GR  - CA 09-011/CA/NCI NIH HHS/United States
+GR  - DP2 OD002414/OD/NIH HHS/United States
+GR  - HHSN272200700038C/AI/NIAID NIH HHS/United States
+GR  - HHSN272200700038C/PHS HHS/United States
+GR  - HV-10-05(2)/HV/NHLBI NIH HHS/United States
+GR  - P01 CA034233/CA/NCI NIH HHS/United States
+GR  - P01 CA034233/CA/NCI NIH HHS/United States
+GR  - P30 CA124435/CA/NCI NIH HHS/United States
+GR  - R01 CA130826/CA/NCI NIH HHS/United States
+GR  - R01 CA164729/CA/NCI NIH HHS/United States
+GR  - T32 GM008798/GM/NIGMS NIH HHS/United States
+GR  - U19 AI057229/AI/NIAID NIH HHS/United States
+GR  - U19 AI057229/AI/NIAID NIH HHS/United States
+GR  - U19 AI100627/AI/NIAID NIH HHS/United States
+GR  - U54 CA121852/CA/NCI NIH HHS/United States
+GR  - Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20130519
+PL  - United States
+TA  - Nat Biotechnol
+JT  - Nature biotechnology
+JID - 9604648
+RN  - 0 (Tumor Markers, Biological)
+SB  - IM
+CIN - Nat Rev Cancer. 2013 Jul;13(7):439. PMID: 23722289
+MH  - Bone Marrow Neoplasms/diagnosis/*pathology
+MH  - Cell Lineage
+MH  - Humans
+MH  - *Image Cytometry
+MH  - *Immunophenotyping
+MH  - Leukemia/diagnosis/*pathology
+MH  - Neoplasm Recurrence, Local/diagnosis/pathology
+MH  - Recurrence
+MH  - Single-Cell Analysis/*methods
+MH  - Tumor Markers, Biological/metabolism
+PMC - PMC4076922
+MID - NIHMS586764
+OID - NLM: NIHMS586764
+OID - NLM: PMC4076922
+EDAT- 2013/05/21 06:00
+MHDA- 2014/02/15 06:00
+CRDT- 2013/05/21 06:00
+PHST- 2012/12/18 [received]
+PHST- 2013/04/22 [accepted]
+PHST- 2013/05/19 [aheadofprint]
+AID - nbt.2594 [pii]
+AID - 10.1038/nbt.2594 [doi]
+PST - ppublish
+SO  - Nat Biotechnol. 2013 Jun;31(6):545-52. doi: 10.1038/nbt.2594. Epub 2013 May 19.

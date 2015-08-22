@@ -1,0 +1,58 @@
+
+PMID- 15323803
+OWN - NLM
+STAT- MEDLINE
+DA  - 20040824
+DCOM- 20041014
+LR  - 20140608
+IS  - 0031-9007 (Print)
+IS  - 0031-9007 (Linking)
+VI  - 93
+IP  - 4
+DP  - 2004 Jul 23
+TI  - Activities and sensitivities in boolean network models.
+PG  - 048701
+AB  - We study how the notions of importance of variables in Boolean functions as well 
+      as the sensitivities of the functions to changes in these variables impact the
+      dynamical behavior of Boolean networks. The activity of a variable captures its
+      influence on the output of the function and is a measure of that variable's
+      importance. The average sensitivity of a Boolean function captures the smoothness
+      of the function and is related to its internal homogeneity. In a random Boolean
+      network, we show that the expected average sensitivity determines the well-known 
+      critical transition curve. We also discuss canalizing functions and the fact that
+      the canalizing variables enjoy higher importance, as measured by their
+      activities, than the noncanalizing variables. Finally, we demonstrate the
+      important role of the average sensitivity in determining the dynamical behavior
+      of a Boolean network.
+CI  - Copyright 2004 The American Physical Society
+FAU - Shmulevich, Ilya
+AU  - Shmulevich I
+AD  - Cancer Genomics Laboratory, University of Texas M. D. Anderson Cancer Center,
+      Houston, Texas 77030, USA.
+FAU - Kauffman, Stuart A
+AU  - Kauffman SA
+LA  - eng
+GR  - R01 GM072855/GM/NIGMS NIH HHS/United States
+GR  - R21 GM070600/GM/NIGMS NIH HHS/United States
+GR  - R21GM070600-01/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20040722
+PL  - United States
+TA  - Phys Rev Lett
+JT  - Physical review letters
+JID - 0401141
+SB  - IM
+MH  - *Logic
+MH  - *Models, Theoretical
+PMC - PMC1490311
+MID - NIHMS2110
+OID - NLM: NIHMS2110
+OID - NLM: PMC1490311
+EDAT- 2004/08/25 05:00
+MHDA- 2004/10/16 09:00
+CRDT- 2004/08/25 05:00
+PHST- 2003/10/24 [received]
+PHST- 2004/07/22 [aheadofprint]
+PST - ppublish
+SO  - Phys Rev Lett. 2004 Jul 23;93(4):048701. Epub 2004 Jul 22.

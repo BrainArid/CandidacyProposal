@@ -1,0 +1,78 @@
+
+PMID- 26000846
+OWN - NLM
+STAT- MEDLINE
+DA  - 20150524
+DCOM- 20150804
+IS  - 1097-4164 (Electronic)
+IS  - 1097-2765 (Linking)
+VI  - 58
+IP  - 4
+DP  - 2015 May 21
+TI  - The technology and biology of single-cell RNA sequencing.
+PG  - 610-20
+LID - 10.1016/j.molcel.2015.04.005 [doi]
+LID - S1097-2765(15)00261-0 [pii]
+AB  - The differences between individual cells can have profound functional
+      consequences, in both unicellular and multicellular organisms. Recently developed
+      single-cell mRNA-sequencing methods enable unbiased, high-throughput, and
+      high-resolution transcriptomic analysis of individual cells. This provides an
+      additional dimension to transcriptomic information relative to traditional
+      methods that profile bulk populations of cells. Already, single-cell
+      RNA-sequencing methods have revealed new biology in terms of the composition of
+      tissues, the dynamics of transcription, and the regulatory relationships between 
+      genes. Rapid technological developments at the level of cell capture,
+      phenotyping, molecular biology, and bioinformatics promise an exciting future
+      with numerous biological and medical applications.
+CI  - Copyright (c) 2015 Elsevier Inc. All rights reserved.
+FAU - Kolodziejczyk, Aleksandra A
+AU  - Kolodziejczyk AA
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK;
+      Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge
+      CB10 1SA, UK.
+FAU - Kim, Jong Kyoung
+AU  - Kim JK
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK.
+FAU - Svensson, Valentine
+AU  - Svensson V
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK.
+FAU - Marioni, John C
+AU  - Marioni JC
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK;
+      Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge
+      CB10 1SA, UK.
+FAU - Teichmann, Sarah A
+AU  - Teichmann SA
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK;
+      Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge
+      CB10 1SA, UK. Electronic address: saraht@ebi.ac.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Mol Cell
+JT  - Molecular cell
+JID - 9802571
+SB  - IM
+MH  - Alternative Splicing
+MH  - Animals
+MH  - Cell Lineage/genetics
+MH  - Gene Expression Profiling/*methods
+MH  - *Gene Regulatory Networks
+MH  - Genetic Variation
+MH  - Humans
+MH  - Models, Genetic
+MH  - Sequence Analysis, RNA/*methods
+MH  - Single-Cell Analysis/*methods
+EDAT- 2015/05/23 06:00
+MHDA- 2015/08/05 06:00
+CRDT- 2015/05/23 06:00
+AID - S1097-2765(15)00261-0 [pii]
+AID - 10.1016/j.molcel.2015.04.005 [doi]
+PST - ppublish
+SO  - Mol Cell. 2015 May 21;58(4):610-20. doi: 10.1016/j.molcel.2015.04.005.

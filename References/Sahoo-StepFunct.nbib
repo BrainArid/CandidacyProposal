@@ -1,0 +1,68 @@
+
+PMID- 17517782
+OWN - NLM
+STAT- MEDLINE
+DA  - 20070629
+DCOM- 20070727
+LR  - 20140904
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Linking)
+VI  - 35
+IP  - 11
+DP  - 2007
+TI  - Extracting binary signals from microarray time-course data.
+PG  - 3705-12
+AB  - This article presents a new method for analyzing microarray time courses by
+      identifying genes that undergo abrupt transitions in expression level, and the
+      time at which the transitions occur. The algorithm matches the sequence of
+      expression levels for each gene against temporal patterns having one or two
+      transitions between two expression levels. The algorithm reports a P-value for
+      the matching pattern of each gene, and a global false discovery rate can also be 
+      computed. After matching, genes can be sorted by the direction and time of
+      transitions. Genes can be partitioned into sets based on the direction and time
+      of change for further analysis, such as comparison with Gene Ontology annotations
+      or binding site motifs. The method is evaluated on simulated and actual
+      time-course data. On microarray data for budding yeast, it is shown that the
+      groups of genes that change in similar ways and at similar times have significant
+      and relevant Gene Ontology annotations.
+FAU - Sahoo, Debashis
+AU  - Sahoo D
+AD  - Department of Electrical Engineering, Stanford University, USA.
+FAU - Dill, David L
+AU  - Dill DL
+FAU - Tibshirani, Rob
+AU  - Tibshirani R
+FAU - Plevritis, Sylvia K
+AU  - Plevritis SK
+LA  - eng
+GR  - 5U56CA112973-02/CA/NCI NIH HHS/United States
+GR  - K99 CA151673/CA/NCI NIH HHS/United States
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20070521
+PL  - England
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+SB  - IM
+MH  - Algorithms
+MH  - Computational Biology/*methods
+MH  - Computer Simulation
+MH  - Down-Regulation
+MH  - Gene Expression Profiling/*methods
+MH  - Kinetics
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Saccharomycetales/genetics/metabolism
+MH  - *Software
+MH  - Up-Regulation
+PMC - PMC1920252
+OID - NLM: PMC1920252
+EDAT- 2007/05/23 09:00
+MHDA- 2007/07/28 09:00
+CRDT- 2007/05/23 09:00
+PHST- 2007/05/21 [aheadofprint]
+AID - gkm284 [pii]
+AID - 10.1093/nar/gkm284 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2007;35(11):3705-12. Epub 2007 May 21.

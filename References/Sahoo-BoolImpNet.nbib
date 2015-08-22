@@ -1,0 +1,68 @@
+
+PMID- 18973690
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100119
+DCOM- 20100331
+LR  - 20150804
+IS  - 1474-760X (Electronic)
+IS  - 1474-7596 (Linking)
+VI  - 9
+IP  - 10
+DP  - 2008
+TI  - Boolean implication networks derived from large scale, whole genome microarray
+      datasets.
+PG  - R157
+LID - 10.1186/gb-2008-9-10-r157 [doi]
+AB  - We describe a method for extracting Boolean implications (if-then relationships) 
+      in very large amounts of gene expression microarray data. A meta-analysis of data
+      from thousands of microarrays for humans, mice, and fruit flies finds millions of
+      implication relationships between genes that would be missed by other methods.
+      These relationships capture gender differences, tissue differences, development, 
+      and differentiation. New relationships are discovered that are preserved across
+      all three species.
+FAU - Sahoo, Debashis
+AU  - Sahoo D
+AD  - Department of Computer Science, Stanford University, Stanford, CA 94305, USA.
+FAU - Dill, David L
+AU  - Dill DL
+FAU - Gentles, Andrew J
+AU  - Gentles AJ
+FAU - Tibshirani, Robert
+AU  - Tibshirani R
+FAU - Plevritis, Sylvia K
+AU  - Plevritis SK
+LA  - eng
+GR  - 5U56CA112973/CA/NCI NIH HHS/United States
+GR  - K99 CA151673/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, N.I.H., Extramural
+DEP - 20081030
+PL  - England
+TA  - Genome Biol
+JT  - Genome biology
+JID - 100960660
+SB  - IM
+MH  - *Algorithms
+MH  - Animals
+MH  - Computational Biology/*methods
+MH  - Databases, Genetic
+MH  - Gene Expression Profiling/*methods
+MH  - *Genome
+MH  - Humans
+MH  - Mice
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Pattern Recognition, Automated
+PMC - PMC2760884
+EDAT- 2008/11/01 09:00
+MHDA- 2010/04/01 06:00
+CRDT- 2008/11/01 09:00
+PHST- 2008/06/28 [received]
+PHST- 2008/09/06 [revised]
+PHST- 2008/10/30 [accepted]
+PHST- 2008/10/30 [aheadofprint]
+AID - gb-2008-9-10-r157 [pii]
+AID - 10.1186/gb-2008-9-10-r157 [doi]
+PST - epublish
+SO  - Genome Biol. 2008 Oct 30;9(10):R157. doi: 10.1186/gb-2008-9-10-r157.

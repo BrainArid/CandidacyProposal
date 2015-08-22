@@ -1,0 +1,133 @@
+
+PMID- 25700174
+OWN - NLM
+STAT- MEDLINE
+DA  - 20150306
+DCOM- 20150406
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 347
+IP  - 6226
+DP  - 2015 Mar 6
+TI  - Brain structure. Cell types in the mouse cortex and hippocampus revealed by
+      single-cell RNA-seq.
+PG  - 1138-42
+LID - 10.1126/science.aaa1934 [doi]
+AB  - The mammalian cerebral cortex supports cognitive functions such as sensorimotor
+      integration, memory, and social behaviors. Normal brain function relies on a
+      diverse set of differentiated cell types, including neurons, glia, and
+      vasculature. Here, we have used large-scale single-cell RNA sequencing (RNA-seq) 
+      to classify cells in the mouse somatosensory cortex and hippocampal CA1 region.
+      We found 47 molecularly distinct subclasses, comprising all known major cell
+      types in the cortex. We identified numerous marker genes, which allowed alignment
+      with known cell types, morphology, and location. We found a layer I interneuron
+      expressing Pax6 and a distinct postmitotic oligodendrocyte subclass marked by
+      Itpr2. Across the diversity of cortical cell types, transcription factors formed 
+      a complex, layered regulatory code, suggesting a mechanism for the maintenance of
+      adult cell type identity.
+CI  - Copyright (c) 2015, American Association for the Advancement of Science.
+FAU - Zeisel, Amit
+AU  - Zeisel A
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - Munoz-Manchado, Ana B
+AU  - Munoz-Manchado AB
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - Codeluppi, Simone
+AU  - Codeluppi S
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - Lonnerberg, Peter
+AU  - Lonnerberg P
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - La Manno, Gioele
+AU  - La Manno G
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - Jureus, Anna
+AU  - Jureus A
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - Marques, Sueli
+AU  - Marques S
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - Munguba, Hermany
+AU  - Munguba H
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - He, Liqun
+AU  - He L
+AD  - Department of Immunology, Genetics and Pathology, Rudbeck Laboratory, Uppsala
+      University, Dag Hammarskjolds vag 20, S-751 85 Uppsala, Sweden.
+FAU - Betsholtz, Christer
+AU  - Betsholtz C
+AD  - Department of Immunology, Genetics and Pathology, Rudbeck Laboratory, Uppsala
+      University, Dag Hammarskjolds vag 20, S-751 85 Uppsala, Sweden. Division of
+      Vascular Biology, Department of Medical Biochemistry and Biophysics, Karolinska
+      Institutet, S-171 77 Stockholm, Sweden.
+FAU - Rolny, Charlotte
+AU  - Rolny C
+AD  - Department of Oncology-Pathology, Karolinska Institutet, S-171 76 Stockholm,
+      Sweden.
+FAU - Castelo-Branco, Goncalo
+AU  - Castelo-Branco G
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+FAU - Hjerling-Leffler, Jens
+AU  - Hjerling-Leffler J
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+      sten.linnarsson@ki.se jens.hjerling-leffler@ki.se.
+FAU - Linnarsson, Sten
+AU  - Linnarsson S
+AD  - Division of Molecular Neurobiology, Department of Medical Biochemistry and
+      Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden.
+      sten.linnarsson@ki.se jens.hjerling-leffler@ki.se.
+LA  - eng
+SI  - GEO/GSE60361
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150219
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+RN  - 0 (Eye Proteins)
+RN  - 0 (Genetic Markers)
+RN  - 0 (Homeodomain Proteins)
+RN  - 0 (Inositol 1,4,5-Trisphosphate Receptors)
+RN  - 0 (PAX6 protein)
+RN  - 0 (Paired Box Transcription Factors)
+RN  - 0 (Repressor Proteins)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Animals
+MH  - CA1 Region, Hippocampal/*cytology/metabolism
+MH  - Eye Proteins/genetics
+MH  - Gene Expression
+MH  - Genetic Markers
+MH  - Homeodomain Proteins/genetics
+MH  - Inositol 1,4,5-Trisphosphate Receptors/genetics
+MH  - Interneurons/*classification/cytology/metabolism
+MH  - Mice
+MH  - Oligodendroglia/*classification/cytology/metabolism
+MH  - Paired Box Transcription Factors/genetics
+MH  - Phylogeny
+MH  - Repressor Proteins/genetics
+MH  - Sequence Analysis, RNA/*methods
+MH  - Single-Cell Analysis/*methods
+MH  - Somatosensory Cortex/*cytology/metabolism
+MH  - Transcription Factors/classification/genetics
+MH  - Transcriptome
+EDAT- 2015/02/24 06:00
+MHDA- 2015/04/07 06:00
+CRDT- 2015/02/21 06:00
+PHST- 2015/02/19 [aheadofprint]
+AID - science.aaa1934 [pii]
+AID - 10.1126/science.aaa1934 [doi]
+PST - ppublish
+SO  - Science. 2015 Mar 6;347(6226):1138-42. doi: 10.1126/science.aaa1934. Epub 2015
+      Feb 19.

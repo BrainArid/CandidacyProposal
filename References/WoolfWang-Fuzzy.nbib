@@ -1,0 +1,73 @@
+
+PMID- 11015595
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001013
+DCOM- 20001115
+LR  - 20061115
+IS  - 1531-2267 (Electronic)
+IS  - 1094-8341 (Linking)
+VI  - 3
+IP  - 1
+DP  - 2000 Jun 29
+TI  - A fuzzy logic approach to analyzing gene expression data.
+PG  - 9-15
+AB  - We have developed a novel algorithm for analyzing gene expression data. This
+      algorithm uses fuzzy logic to transform expression values into qualitative
+      descriptors that can be evaluated by using a set of heuristic rules. In our tests
+      we designed a model to find triplets of activators, repressors, and targets in a 
+      yeast gene expression data set. For the conditions tested, the predictions made
+      by the algorithm agree well with experimental data in the literature. The
+      algorithm can also assist in determining the function of uncharacterized proteins
+      and is able to detect a substantially larger number of transcription factors than
+      could be found at random. This technology extends current techniques such as
+      clustering in that it allows the user to generate a connected network of genes
+      using only expression data.
+FAU - Woolf, P J
+AU  - Woolf PJ
+AD  - Bioinformatics, Department of Molecular Biology, Parke-Davis Pharmaceutical
+      Research, Warner-Lanbert, Ann Arbor 48105, USA.
+FAU - Wang, Y
+AU  - Wang Y
+LA  - eng
+PT  - Journal Article
+DEP - 20000629
+PL  - UNITED STATES
+TA  - Physiol Genomics
+JT  - Physiological genomics
+JID - 9815683
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (ROX1 protein, S cerevisiae)
+RN  - 0 (Repressor Proteins)
+RN  - 0 (Saccharomyces cerevisiae Proteins)
+RN  - EC 3.1.21.2 (Deoxyribonuclease IV (Phage T4-Induced))
+RN  - EC 4.2.- (Carbon-Oxygen Lyases)
+RN  - EC 4.2.99.18 (DNA-(Apurinic or Apyrimidinic Site) Lyase)
+SB  - IM
+MH  - *Algorithms
+MH  - Carbon-Oxygen Lyases/genetics
+MH  - Cell Cycle/genetics
+MH  - Cell Respiration/genetics
+MH  - Computational Biology/methods
+MH  - Computer Simulation
+MH  - DNA-(Apurinic or Apyrimidinic Site) Lyase
+MH  - DNA-Binding Proteins/genetics
+MH  - Deoxyribonuclease IV (Phage T4-Induced)
+MH  - *Fuzzy Logic
+MH  - Gene Expression Profiling/*methods
+MH  - Gene Expression Regulation/*genetics
+MH  - *Models, Genetic
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Predictive Value of Tests
+MH  - Regulatory Sequences, Nucleic Acid/genetics
+MH  - Repressor Proteins/genetics
+MH  - Reproducibility of Results
+MH  - Saccharomyces cerevisiae/genetics
+MH  - Saccharomyces cerevisiae Proteins
+MH  - Software Validation
+EDAT- 2000/10/04 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/10/04 11:00
+AID - 3/1/9 [pii]
+PST - epublish
+SO  - Physiol Genomics. 2000 Jun 29;3(1):9-15.

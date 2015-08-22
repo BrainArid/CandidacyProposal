@@ -1,0 +1,63 @@
+
+PMID- 12595578
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030417
+DCOM- 20030428
+LR  - 20061115
+IS  - 1531-2267 (Electronic)
+IS  - 1094-8341 (Linking)
+VI  - 13
+IP  - 2
+DP  - 2003 Apr 16
+TI  - Increasing the efficiency of fuzzy logic-based gene expression data analysis.
+PG  - 107-17
+AB  - DNA microarray technology can accommodate a multifaceted analysis of the
+      expression of genes in an organism. The wealth of spatiotemporal data generated
+      by this technology allows researchers to potentially reverse engineer a
+      particular genetic network. "Fuzzy logic" has been proposed as a method to
+      analyze the relationships between genes and help decipher a genetic network. This
+      method can identify interacting genes that fit a known "fuzzy" model of gene
+      interaction by testing all combinations of gene expression profiles. This paper
+      introduces improvements made over previous fuzzy gene regulatory models in terms 
+      of computation time and robustness to noise. Improvement in computation time is
+      achieved by using a cluster analysis as a preprocessing method to reduce the
+      total number of gene combinations analyzed. This approach speeds up the algorithm
+      by a factor of 50% with minimal effect on the results. The model's sensitivity to
+      noise is reduced by implementing appropriate methods of "fuzzy rule aggregation" 
+      and "conjunction" that produce reliable results in the face of minor changes in
+      model input.
+FAU - Ressom, Habtom
+AU  - Ressom H
+AD  - Intelligent Systems Laboratory, Department of Electrical and Computer
+      Engineering, University of Maine, Orono, Maine 04469, USA. ressom@eece.maine.edu
+FAU - Reynolds, Robert
+AU  - Reynolds R
+FAU - Varghese, Rency S
+AU  - Varghese RS
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+DEP - 20030416
+PL  - United States
+TA  - Physiol Genomics
+JT  - Physiological genomics
+JID - 9815683
+SB  - IM
+MH  - Animals
+MH  - Cluster Analysis
+MH  - Computational Biology/*methods/standards/statistics & numerical data/*trends
+MH  - *Fuzzy Logic
+MH  - Gene Expression Profiling/*methods/standards/statistics & numerical data/*trends
+MH  - Humans
+RF  - 33
+EDAT- 2003/02/22 04:00
+MHDA- 2003/04/29 05:00
+CRDT- 2003/02/22 04:00
+PHST- 2003/02/20 [aheadofprint]
+AID - 10.1152/physiolgenomics.00097.2002 [doi]
+AID - 00097.2002 [pii]
+PST - epublish
+SO  - Physiol Genomics. 2003 Apr 16;13(2):107-17.

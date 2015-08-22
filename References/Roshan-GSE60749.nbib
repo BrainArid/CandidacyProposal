@@ -1,0 +1,159 @@
+
+PMID- 25471879
+OWN - NLM
+STAT- MEDLINE
+DA  - 20141204
+DCOM- 20150109
+LR  - 20150604
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 516
+IP  - 7529
+DP  - 2014 Dec 4
+TI  - Deconstructing transcriptional heterogeneity in pluripotent stem cells.
+PG  - 56-61
+LID - 10.1038/nature13920 [doi]
+AB  - Pluripotent stem cells (PSCs) are capable of dynamic interconversion between
+      distinct substates; however, the regulatory circuits specifying these states and 
+      enabling transitions between them are not well understood. Here we set out to
+      characterize transcriptional heterogeneity in mouse PSCs by single-cell
+      expression profiling under different chemical and genetic perturbations.
+      Signalling factors and developmental regulators show highly variable expression, 
+      with expression states for some variable genes heritable through multiple cell
+      divisions. Expression variability and population heterogeneity can be influenced 
+      by perturbation of signalling pathways and chromatin regulators. Notably, either 
+      removal of mature microRNAs or pharmacological blockage of signalling pathways
+      drives PSCs into a low-noise ground state characterized by a reconfigured
+      pluripotency network, enhanced self-renewal and a distinct chromatin state, an
+      effect mediated by opposing microRNA families acting on the Myc/Lin28/let-7 axis.
+      These data provide insight into the nature of transcriptional heterogeneity in
+      PSCs.
+FAU - Kumar, Roshan M
+AU  - Kumar RM
+AD  - 1] Wyss Institute for Biologically Inspired Engineering, Harvard University,
+      Boston, Massachusetts 02115, USA [2] Howard Hughes Medical Institute, Department 
+      of Biomedical Engineering, Center of Synthetic Biology, Boston University,
+      Boston, Massachusetts 02215, USA.
+FAU - Cahan, Patrick
+AU  - Cahan P
+AD  - Stem Cell Transplantation Program, Division of Pediatric Hematology and Oncology,
+      Manton Center for Orphan Disease Research, Howard Hughes Medical Institute,
+      Boston Children's Hospital and Dana Farber Cancer Institute, Department of
+      Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Harvard 
+      Stem Cell Institute, Boston, Massachusetts 02115, USA.
+FAU - Shalek, Alex K
+AU  - Shalek AK
+AD  - Department of Chemistry and Chemical Biology and Department of Physics, Harvard
+      University, 12 Oxford Street, Cambridge, Massachusetts 02138, USA.
+FAU - Satija, Rahul
+AU  - Satija R
+AD  - Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, Massachusetts 
+      02142, USA.
+FAU - DaleyKeyser, A Jay
+AU  - DaleyKeyser AJ
+AD  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+      Massachusetts 02115, USA.
+FAU - Li, Hu
+AU  - Li H
+AD  - Center for Individualized Medicine, Department of Molecular Pharmacology
+      &Experimental Therapeutics, Mayo Clinic College of Medicine, Rochester, Minnesota
+      55905, USA.
+FAU - Zhang, Jin
+AU  - Zhang J
+AD  - Stem Cell Transplantation Program, Division of Pediatric Hematology and Oncology,
+      Manton Center for Orphan Disease Research, Howard Hughes Medical Institute,
+      Boston Children's Hospital and Dana Farber Cancer Institute, Department of
+      Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Harvard 
+      Stem Cell Institute, Boston, Massachusetts 02115, USA.
+FAU - Pardee, Keith
+AU  - Pardee K
+AD  - 1] Wyss Institute for Biologically Inspired Engineering, Harvard University,
+      Boston, Massachusetts 02115, USA [2] Howard Hughes Medical Institute, Department 
+      of Biomedical Engineering, Center of Synthetic Biology, Boston University,
+      Boston, Massachusetts 02215, USA.
+FAU - Gennert, David
+AU  - Gennert D
+AD  - Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, Massachusetts 
+      02142, USA.
+FAU - Trombetta, John J
+AU  - Trombetta JJ
+AD  - Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, Massachusetts 
+      02142, USA.
+FAU - Ferrante, Thomas C
+AU  - Ferrante TC
+AD  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston,
+      Massachusetts 02115, USA.
+FAU - Regev, Aviv
+AU  - Regev A
+AD  - 1] Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge,
+      Massachusetts 02142, USA [2] Howard Hughes Medical Institute, Department of
+      Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts 02140,
+      USA.
+FAU - Daley, George Q
+AU  - Daley GQ
+AD  - Stem Cell Transplantation Program, Division of Pediatric Hematology and Oncology,
+      Manton Center for Orphan Disease Research, Howard Hughes Medical Institute,
+      Boston Children's Hospital and Dana Farber Cancer Institute, Department of
+      Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Harvard 
+      Stem Cell Institute, Boston, Massachusetts 02115, USA.
+FAU - Collins, James J
+AU  - Collins JJ
+AD  - 1] Wyss Institute for Biologically Inspired Engineering, Harvard University,
+      Boston, Massachusetts 02115, USA [2] Howard Hughes Medical Institute, Department 
+      of Biomedical Engineering, Center of Synthetic Biology, Boston University,
+      Boston, Massachusetts 02215, USA.
+LA  - eng
+SI  - GEO/GSE60749
+GR  - 1F32HD075541-01/HD/NICHD NIH HHS/United States
+GR  - 1P50HG006193- 01/HG/NHGRI NIH HHS/United States
+GR  - DP1 CA174427/CA/NCI NIH HHS/United States
+GR  - DP1 OD003958/OD/NIH HHS/United States
+GR  - DP1OD003958-01/OD/NIH HHS/United States
+GR  - F32 HD075541/HD/NICHD NIH HHS/United States
+GR  - K01 DK096013/DK/NIDDK NIH HHS/United States
+GR  - K01DK096013/DK/NIDDK NIH HHS/United States
+GR  - NIH-P30-HD18655/HD/NICHD NIH HHS/United States
+GR  - P50 HG005550/HG/NHGRI NIH HHS/United States
+GR  - P50 HG006193/HG/NHGRI NIH HHS/United States
+GR  - P50HG005550/HG/NHGRI NIH HHS/United States
+GR  - R01 GM107536/GM/NIGMS NIH HHS/United States
+GR  - R01GM107536/GM/NIGMS NIH HHS/United States
+GR  - R24 DK092760/DK/NIDDK NIH HHS/United States
+GR  - R24DK092760/DK/NIDDK NIH HHS/United States
+GR  - T32 HL007623/HL/NHLBI NIH HHS/United States
+GR  - T32HL007623/HL/NHLBI NIH HHS/United States
+GR  - T32HL066987/HL/NHLBI NIH HHS/United States
+GR  - Howard Hughes Medical Institute/United States
+GR  - Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Animals
+MH  - Cell Death
+MH  - Cell Division
+MH  - Embryonic Stem Cells/cytology/physiology
+MH  - Gene Expression Profiling
+MH  - *Gene Expression Regulation, Developmental
+MH  - Mice
+MH  - MicroRNAs/metabolism
+MH  - Pluripotent Stem Cells/cytology/*physiology
+MH  - Signal Transduction
+PMC - PMC4256722
+MID - NIHMS634110
+OID - NLM: NIHMS634110
+OID - NLM: PMC4256722
+EDAT- 2014/12/05 06:00
+MHDA- 2015/01/13 06:00
+CRDT- 2014/12/05 06:00
+PHST- 2014/02/13 [received]
+PHST- 2014/10/07 [accepted]
+AID - nature13920 [pii]
+AID - 10.1038/nature13920 [doi]
+PST - ppublish
+SO  - Nature. 2014 Dec 4;516(7529):56-61. doi: 10.1038/nature13920.

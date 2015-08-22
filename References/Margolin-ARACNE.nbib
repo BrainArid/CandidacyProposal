@@ -1,0 +1,93 @@
+
+PMID- 16723010
+OWN - NLM
+STAT- MEDLINE
+DA  - 20060525
+DCOM- 20060630
+LR  - 20140909
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 7 Suppl 1
+DP  - 2006
+TI  - ARACNE: an algorithm for the reconstruction of gene regulatory networks in a
+      mammalian cellular context.
+PG  - S7
+AB  - BACKGROUND: Elucidating gene regulatory networks is crucial for understanding
+      normal cell physiology and complex pathologic phenotypes. Existing computational 
+      methods for the genome-wide "reverse engineering" of such networks have been
+      successful only for lower eukaryotes with simple genomes. Here we present ARACNE,
+      a novel algorithm, using microarray expression profiles, specifically designed to
+      scale up to the complexity of regulatory networks in mammalian cells, yet general
+      enough to address a wider range of network deconvolution problems. This method
+      uses an information theoretic approach to eliminate the majority of indirect
+      interactions inferred by co-expression methods. RESULTS: We prove that ARACNE
+      reconstructs the network exactly (asymptotically) if the effect of loops in the
+      network topology is negligible, and we show that the algorithm works well in
+      practice, even in the presence of numerous loops and complex topologies. We
+      assess ARACNE's ability to reconstruct transcriptional regulatory networks using 
+      both a realistic synthetic dataset and a microarray dataset from human B cells.
+      On synthetic datasets ARACNE achieves very low error rates and outperforms
+      established methods, such as Relevance Networks and Bayesian Networks.
+      Application to the deconvolution of genetic networks in human B cells
+      demonstrates ARACNE's ability to infer validated transcriptional targets of the
+      cMYC proto-oncogene. We also study the effects of misestimation of mutual
+      information on network reconstruction, and show that algorithms based on mutual
+      information ranking are more resilient to estimation errors. CONCLUSION: ARACNE
+      shows promise in identifying direct transcriptional interactions in mammalian
+      cellular networks, a problem that has challenged existing reverse engineering
+      algorithms. This approach should enhance our ability to use microarray data to
+      elucidate functional mechanisms that underlie cellular processes and to identify 
+      molecular targets of pharmacological compounds in mammalian cellular networks.
+FAU - Margolin, Adam A
+AU  - Margolin AA
+AD  - Department of Biomedical Informatics, Columbia University, New York, NY 10032,
+      USA. adam@dbmi.columbia.edu
+FAU - Nemenman, Ilya
+AU  - Nemenman I
+FAU - Basso, Katia
+AU  - Basso K
+FAU - Wiggins, Chris
+AU  - Wiggins C
+FAU - Stolovitzky, Gustavo
+AU  - Stolovitzky G
+FAU - Dalla Favera, Riccardo
+AU  - Dalla Favera R
+FAU - Califano, Andrea
+AU  - Califano A
+LA  - eng
+GR  - 1R01AI066116-01/AI/NIAID NIH HHS/United States
+GR  - 1R01CA109755-01A1/CA/NCI NIH HHS/United States
+GR  - 5 T15 LM007079-13/LM/NLM NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20060320
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - Algorithms
+MH  - Animals
+MH  - B-Lymphocytes/metabolism
+MH  - Computational Biology/*methods
+MH  - Computer Simulation
+MH  - Gene Expression Profiling
+MH  - *Gene Expression Regulation
+MH  - Humans
+MH  - Models, Statistical
+MH  - Neural Networks (Computer)
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Phenotype
+MH  - Reproducibility of Results
+MH  - Software
+MH  - Transcription, Genetic
+PMC - PMC1810318
+OID - NLM: PMC1810318
+EDAT- 2006/05/26 09:00
+MHDA- 2006/07/01 09:00
+CRDT- 2006/05/26 09:00
+PHST- 2006/03/20 [epublish]
+AID - 1471-2105-7-S1-S7 [pii]
+AID - 10.1186/1471-2105-7-S1-S7 [doi]
+PST - epublish
+SO  - BMC Bioinformatics. 2006 Mar 20;7 Suppl 1:S7.
