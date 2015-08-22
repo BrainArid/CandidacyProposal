@@ -1,0 +1,55 @@
+
+PMID- 10946390
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001121
+DCOM- 20001214
+LR  - 20041117
+IS  - 0893-6080 (Print)
+IS  - 0893-6080 (Linking)
+VI  - 13
+IP  - 4-5
+DP  - 2000 May-Jun
+TI  - Independent component analysis: algorithms and applications.
+PG  - 411-30
+AB  - A fundamental problem in neural network research, as well as in many other
+      disciplines, is finding a suitable representation of multivariate data, i.e.
+      random vectors. For reasons of computational and conceptual simplicity, the
+      representation is often sought as a linear transformation of the original data.
+      In other words, each component of the representation is a linear combination of
+      the original variables. Well-known linear transformation methods include
+      principal component analysis, factor analysis, and projection pursuit.
+      Independent component analysis (ICA) is a recently developed method in which the 
+      goal is to find a linear representation of non-Gaussian data so that the
+      components are statistically independent, or as independent as possible. Such a
+      representation seems to capture the essential structure of the data in many
+      applications, including feature extraction and signal separation. In this paper, 
+      we present the basic theory and applications of ICA, and our recent work on the
+      subject.
+FAU - Hyvarinen, A
+AU  - Hyvarinen A
+AD  - Neural Networks Research Centre, Helsinki University of Technology, Finland.
+      aapo.hyvarinen@hut.fi
+FAU - Oja, E
+AU  - Oja E
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Neural Netw
+JT  - Neural networks : the official journal of the International Neural Network
+      Society
+JID - 8805018
+SB  - IM
+MH  - *Algorithms
+MH  - *Artifacts
+MH  - Brain/physiology
+MH  - Humans
+MH  - Magnetoencephalography
+MH  - *Neural Networks (Computer)
+MH  - Normal Distribution
+EDAT- 2000/08/18 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/08/18 11:00
+AID - S0893-6080(00)00026-5 [pii]
+PST - ppublish
+SO  - Neural Netw. 2000 May-Jun;13(4-5):411-30.

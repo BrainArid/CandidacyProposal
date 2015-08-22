@@ -1,0 +1,59 @@
+
+PMID- 25964631
+OWN - NLM
+STAT- Publisher
+DA  - 20150605
+LR  - 20150605
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+DP  - 2015 May 11
+TI  - GOplot: an R package for visually combining expression data with functional
+      analysis.
+LID - btv300 [pii]
+AB  - Despite the plethora of methods available for the functional analysis of omics
+      data, obtaining comprehensive-yet detailed understanding of the results remains
+      challenging. This is mainly due to the lack of publicly available tools for the
+      visualization of this type of information. Here we present an R package called
+      GOplot, based on ggplot2, for enhanced graphical representation. Our package
+      takes the output of any general enrichment analysis and generates plots at
+      different levels of detail: from a general overview to identify the most enriched
+      categories (bar plot, bubble plot) to a more detailed view displaying different
+      types of information for molecules in a given set of categories (circle plot,
+      chord plot, cluster plot). The package provides a deeper insight into omics data 
+      and allows scientists to generate insightful plots with only a few lines of code 
+      to easily communicate the findings. AVAILABILITY AND IMPLEMENTATION: The R
+      package GOplot is available via CRAN-The Comprehensive R Archive Network:
+      http://cran.r-project.org/web/packages/GOplot. The shiny web application of the
+      Venn diagram can be found at: https://wwalter.shinyapps.io/Venn/. A detailed
+      manual of the package with sample figures can be found at
+      https://wencke.github.io/ CONTACT: fscabo@cnic.es or mricote@cnic.es.
+CI  - (c) The Author 2015. Published by Oxford University Press. All rights reserved.
+      For Permissions, please e-mail: journals.permissions@oup.com.
+FAU - Walter, Wencke
+AU  - Walter W
+AD  - Department of Cardiovascular Development and Repair and Bioinformatics Unit,
+      Centro Nacional de Investigaciones Cardiovasculares (CNIC), Madrid, Spain.
+FAU - Sanchez-Cabo, Fatima
+AU  - Sanchez-Cabo F
+AD  - Department of Cardiovascular Development and Repair and Bioinformatics Unit,
+      Centro Nacional de Investigaciones Cardiovasculares (CNIC), Madrid, Spain.
+FAU - Ricote, Mercedes
+AU  - Ricote M
+AD  - Department of Cardiovascular Development and Repair and Bioinformatics Unit,
+      Centro Nacional de Investigaciones Cardiovasculares (CNIC), Madrid, Spain.
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20150511
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+EDAT- 2015/05/13 06:00
+MHDA- 2015/05/13 06:00
+CRDT- 2015/05/13 06:00
+PHST- 2015/02/06 [received]
+PHST- 2015/05/05 [accepted]
+PHST- 2015/05/11 [aheadofprint]
+AID - btv300 [pii]
+AID - 10.1093/bioinformatics/btv300 [doi]
+PST - aheadofprint
+SO  - Bioinformatics. 2015 May 11. pii: btv300.

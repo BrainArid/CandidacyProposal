@@ -1,0 +1,95 @@
+
+PMID- 21785142
+OWN - NLM
+STAT- MEDLINE
+DA  - 20110725
+DCOM- 20111129
+LR  - 20150209
+IS  - 1758-0463 (Electronic)
+IS  - 1758-0463 (Linking)
+VI  - 2011
+DP  - 2011
+TI  - Ensembl BioMarts: a hub for data retrieval across taxonomic space.
+PG  - bar030
+LID - 10.1093/database/bar030 [doi]
+AB  - For a number of years the BioMart data warehousing system has proven to be a
+      valuable resource for scientists seeking a fast and versatile means of accessing 
+      the growing volume of genomic data provided by the Ensembl project. The launch of
+      the Ensembl Genomes project in 2009 complemented the Ensembl project by utilizing
+      the same visualization, interactive and programming tools to provide users with a
+      means for accessing genome data from a further five domains: protists, bacteria, 
+      metazoa, plants and fungi. The Ensembl and Ensembl Genomes BioMarts provide a
+      point of access to the high-quality gene annotation, variation data, functional
+      and regulatory annotation and evolutionary relationships from genomes spanning
+      the taxonomic space. This article aims to give a comprehensive overview of the
+      Ensembl and Ensembl Genomes BioMarts as well as some useful examples and a
+      description of current data content and future objectives. Database URLs:
+      http://www.ensembl.org/biomart/martview/;
+      http://metazoa.ensembl.org/biomart/martview/;
+      http://plants.ensembl.org/biomart/martview/;
+      http://protists.ensembl.org/biomart/martview/;
+      http://fungi.ensembl.org/biomart/martview/;
+      http://bacteria.ensembl.org/biomart/martview/.
+FAU - Kinsella, Rhoda J
+AU  - Kinsella RJ
+AD  - European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton,
+      Cambridge, CB10 1SD, UK. rhoda@ebi.ac.uk
+FAU - Kahari, Andreas
+AU  - Kahari A
+FAU - Haider, Syed
+AU  - Haider S
+FAU - Zamora, Jorge
+AU  - Zamora J
+FAU - Proctor, Glenn
+AU  - Proctor G
+FAU - Spudich, Giulietta
+AU  - Spudich G
+FAU - Almeida-King, Jeff
+AU  - Almeida-King J
+FAU - Staines, Daniel
+AU  - Staines D
+FAU - Derwent, Paul
+AU  - Derwent P
+FAU - Kerhornou, Arnaud
+AU  - Kerhornou A
+FAU - Kersey, Paul
+AU  - Kersey P
+FAU - Flicek, Paul
+AU  - Flicek P
+LA  - eng
+GR  - 095908/Wellcome Trust/United Kingdom
+GR  - BB/F019793/1/Biotechnology and Biological Sciences Research Council/United
+      Kingdom
+GR  - BB/I001077/1/Biotechnology and Biological Sciences Research Council/United
+      Kingdom
+GR  - WT062023/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110723
+PL  - England
+TA  - Database (Oxford)
+JT  - Database : the journal of biological databases and curation
+JID - 101517697
+SB  - IM
+MH  - Animals
+MH  - Anopheles gambiae/genetics
+MH  - Classification/*methods
+MH  - Computational Biology
+MH  - *Databases, Genetic
+MH  - Genome/genetics
+MH  - Humans
+MH  - Information Storage and Retrieval/*methods
+MH  - Open Reading Frames/genetics
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Search Engine
+PMC - PMC3170168
+OID - NLM: PMC3170168
+EDAT- 2011/07/26 06:00
+MHDA- 2011/12/13 00:00
+CRDT- 2011/07/26 06:00
+PHST- 2011 [ppublish]
+AID - bar030 [pii]
+AID - 10.1093/database/bar030 [doi]
+PST - epublish
+SO  - Database (Oxford). 2011 Jul 23;2011:bar030. doi: 10.1093/database/bar030. Print
+      2011.
