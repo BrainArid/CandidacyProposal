@@ -1,0 +1,28 @@
+
+TY  - JOUR
+AU  - Wu, Angela R
+AU  - Neff, Norma F
+AU  - Kalisky, Tomer
+AU  - Dalerba, Piero
+AU  - Treutlein, Barbara
+AU  - Rothenberg, Michael E
+AU  - Mburu, Francis M
+AU  - Mantalas, Gary L
+AU  - Sim, Sopheak
+AU  - Clarke, Michael F
+AU  - Quake, Stephen R
+TI  - Quantitative assessment of single-cell RNA-sequencing methods
+JA  - Nat Meth
+PY  - 2014/01//print
+VL  - 11
+IS  - 1
+SP  - 41
+EP  - 46
+PB  - Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.
+SN  - 1548-7091
+UR  - http://dx.doi.org/10.1038/nmeth.2694
+L3  - 10.1038/nmeth.2694
+M3  - Analysis
+L3  - http://www.nature.com/nmeth/journal/v11/n1/abs/nmeth.2694.html#supplementary-information
+AB  - Interest in single-cell whole-transcriptome analysis is growing rapidly, especially for profiling rare or heterogeneous populations of cells. We compared commercially available single-cell RNA amplification methods with both microliter and nanoliter volumes, using sequence from bulk total RNA and multiplexed quantitative PCR as benchmarks to systematically evaluate the sensitivity and accuracy of various single-cell RNA-seq approaches. We show that single-cell RNA-seq can be used to perform accurate quantitative transcriptome measurement in individual cells with a relatively small number of sequencing reads and that sequencing large numbers of single cells can recapitulate bulk transcriptome complexity.
+ER  - 
