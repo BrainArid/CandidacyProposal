@@ -1,0 +1,92 @@
+
+PMID- 25599176
+OWN - NLM
+STAT- In-Process
+DA  - 20150209
+IS  - 1546-1696 (Electronic)
+IS  - 1087-0156 (Linking)
+VI  - 33
+IP  - 2
+DP  - 2015 Feb
+TI  - Computational analysis of cell-to-cell heterogeneity in single-cell
+      RNA-sequencing data reveals hidden subpopulations of cells.
+PG  - 155-60
+LID - 10.1038/nbt.3102 [doi]
+AB  - Recent technical developments have enabled the transcriptomes of hundreds of
+      cells to be assayed in an unbiased manner, opening up the possibility that new
+      subpopulations of cells can be found. However, the effects of potential
+      confounding factors, such as the cell cycle, on the heterogeneity of gene
+      expression and therefore on the ability to robustly identify subpopulations
+      remain unclear. We present and validate a computational approach that uses latent
+      variable models to account for such hidden factors. We show that our single-cell 
+      latent variable model (scLVM) allows the identification of otherwise undetectable
+      subpopulations of cells that correspond to different stages during the
+      differentiation of naive T cells into T helper 2 cells. Our approach can be used 
+      not only to identify cellular subpopulations but also to tease apart different
+      sources of gene expression heterogeneity in single-cell transcriptomes.
+FAU - Buettner, Florian
+AU  - Buettner F
+AD  - 1] Helmholtz Zentrum Munchen-German Research Center for Environmental Health,
+      Institute of Computational Biology, Neuherberg, Germany. [2] European Molecular
+      Biology Laboratory, European Bioinformatics Institute, Wellcome Trust Genome
+      Campus, Hinxton, Cambridge, UK.
+FAU - Natarajan, Kedar N
+AU  - Natarajan KN
+AD  - 1] European Molecular Biology Laboratory, European Bioinformatics Institute,
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK. [2] Wellcome Trust Sanger
+      Institute, Hinxton, UK.
+FAU - Casale, F Paolo
+AU  - Casale FP
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute,
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK.
+FAU - Proserpio, Valentina
+AU  - Proserpio V
+AD  - 1] European Molecular Biology Laboratory, European Bioinformatics Institute,
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK. [2] Wellcome Trust Sanger
+      Institute, Hinxton, UK.
+FAU - Scialdone, Antonio
+AU  - Scialdone A
+AD  - 1] European Molecular Biology Laboratory, European Bioinformatics Institute,
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK. [2] Wellcome Trust Sanger
+      Institute, Hinxton, UK.
+FAU - Theis, Fabian J
+AU  - Theis FJ
+AUID- ORCID: 0000000224191943
+AD  - 1] Helmholtz Zentrum Munchen-German Research Center for Environmental Health,
+      Institute of Computational Biology, Neuherberg, Germany. [2] Department of
+      Mathematics, Technische Universitat Munchen, Munich, Germany.
+FAU - Teichmann, Sarah A
+AU  - Teichmann SA
+AD  - 1] European Molecular Biology Laboratory, European Bioinformatics Institute,
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK. [2] Wellcome Trust Sanger
+      Institute, Hinxton, UK.
+FAU - Marioni, John C
+AU  - Marioni JC
+AD  - 1] European Molecular Biology Laboratory, European Bioinformatics Institute,
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK. [2] Wellcome Trust Sanger
+      Institute, Hinxton, UK.
+FAU - Stegle, Oliver
+AU  - Stegle O
+AUID- ORCID: 0000000288187193
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute,
+      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150119
+PL  - United States
+TA  - Nat Biotechnol
+JT  - Nature biotechnology
+JID - 9604648
+SB  - IM
+CIN - Nat Methods. 2015 Mar;12(3):170-1
+EDAT- 2015/01/20 06:00
+MHDA- 2015/01/20 06:00
+CRDT- 2015/01/20 06:00
+PHST- 2014/01/26 [received]
+PHST- 2014/11/05 [accepted]
+PHST- 2015/01/19 [aheadofprint]
+AID - nbt.3102 [pii]
+AID - 10.1038/nbt.3102 [doi]
+PST - ppublish
+SO  - Nat Biotechnol. 2015 Feb;33(2):155-60. doi: 10.1038/nbt.3102. Epub 2015 Jan 19.

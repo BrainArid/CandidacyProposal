@@ -2,67 +2,136 @@
 <b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
 <b:Source>
 <b:SourceType>Misc</b:SourceType>
-<b:Tag>RJ</b:Tag>
-<b:Title>Ensembl BioMarts: a hub for data retrieval across taxonomic space.</b:Title>
+<b:Tag>AD</b:Tag>
+<b:Title>viSNE enables visualization of high dimensional single-cell data and reveals phenotypic heterogeneity of leukemia.</b:Title>
 <b:Author>
 <b:Author>
 <b:NameList>
 <b:Person>
-<b:Last>RJ</b:Last>
-<b:First>Kinsella</b:First>
+<b:Last>el AD</b:Last>
+<b:First>Amir</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Kahari A FAU Haider</b:Last>
-<b:First>Syed</b:First>
+<b:Last>Davis KL FAU Tadmor</b:Last>
+<b:Middle>D</b:Middle>
+<b:First>Michelle</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Haider S FAU Zamora</b:Last>
-<b:First>Jorge</b:First>
+<b:Last>Tadmor MD FAU Simonds</b:Last>
+<b:Middle>F</b:Middle>
+<b:First>Erin</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Zamora J FAU Proctor</b:Last>
-<b:First>Glenn</b:First>
+<b:Last>Simonds EF FAU Levine</b:Last>
+<b:Middle>H</b:Middle>
+<b:First>Jacob</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Proctor G FAU Spudich</b:Last>
-<b:First>Giulietta</b:First>
+<b:Last>Levine JH FAU Bendall</b:Last>
+<b:Middle>C</b:Middle>
+<b:First>Sean</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Spudich G FAU Almeida-King</b:Last>
-<b:First>Jeff</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Almeida-King J FAU Staines</b:Last>
+<b:Last>Bendall SC FAU Shenfeld</b:Last>
+<b:Middle>K</b:Middle>
 <b:First>Daniel</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Staines D FAU Derwent</b:Last>
-<b:First>Paul</b:First>
+<b:Last>Shenfeld DK FAU Krishnaswamy</b:Last>
+<b:First>Smita</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Derwent P FAU Kerhornou</b:Last>
-<b:First>Arnaud</b:First>
+<b:Last>Krishnaswamy S FAU Nolan</b:Last>
+<b:Middle>P</b:Middle>
+<b:First>Garry</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Kerhornou A FAU Kersey</b:Last>
-<b:First>Paul</b:First>
+<b:Last>Nolan GP FAU Pe'er</b:Last>
+<b:First>Dana</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Kersey P FAU Flicek</b:Last>
-<b:First>Paul</b:First>
-</b:Person>
-<b:Person>
-<b:Last>P</b:Last>
-<b:First>Flicek</b:First>
+<b:Last>D</b:Last>
+<b:First>Pe'er</b:First>
 </b:Person>
 </b:NameList>
 </b:Author>
 </b:Author>
 <b:Pages>--</b:Pages>
-<b:City>European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton,      Cambridge, CB10 1SD, UK. rhoda@ebi.ac.uk FAU - Kahari, Andreas</b:City>
-<b:Issue>1758-0463 (Linking)</b:Issue>
-<b:PublicationTitle>Ensembl BioMarts: a hub for data retrieval across taxonomic space.</b:PublicationTitle>
-<b:BIBTEX_Abstract>For a number of years the BioMart data warehousing system has proven to be a      valuable resource for scientists seeking a fast and versatile means of accessing       the growing volume of genomic data provided by the Ensembl project. The launch of      the Ensembl Genomes project in 2009 complemented the Ensembl project by utilizing      the same visualization, interactive and programming tools to provide users with a      means for accessing genome data from a further five domains: protists, bacteria,       metazoa, plants and fungi. The Ensembl and Ensembl Genomes BioMarts provide a      point of access to the high-quality gene annotation, variation data, functional      and regulatory annotation and evolutionary relationships from genomes spanning      the taxonomic space. This article aims to give a comprehensive overview of the      Ensembl and Ensembl Genomes BioMarts as well as some useful examples and a      description of current data content and future objectives. Database URLs:      http://www.ensembl.org/biomart/martview/;      http://metazoa.ensembl.org/biomart/martview/;      http://plants.ensembl.org/biomart/martview/;      http://protists.ensembl.org/biomart/martview/;      http://fungi.ensembl.org/biomart/martview/;      http://bacteria.ensembl.org/biomart/martview/. FAU - Kinsella, Rhoda J</b:BIBTEX_Abstract>
+<b:City>Department of Biological Sciences, Columbia Initiative for Systems Biology, Columbia University, New York, New York, USA. FAU - Davis, Kara L</b:City>
+<b:Issue>1087-0156 (Linking)</b:Issue>
+<b:PublicationTitle>viSNE enables visualization of high dimensional single-cell data and reveals phenotypic heterogeneity of leukemia.</b:PublicationTitle>
+<b:BIBTEX_Abstract>New high-dimensional, single-cell technologies offer unprecedented resolution in the analysis of heterogeneous tissues. However, because these technologies can measure dozens of parameters simultaneously in individual cells, data interpretation can be challenging. Here we present viSNE, a tool that allows one to map high-dimensional cytometry data onto two dimensions, yet conserve the high-dimensional structure of the data. viSNE plots individual cells in a visual similar to a scatter plot, while using all pairwise distances in high dimension to determine each cell's location in the plot. We integrated mass cytometry with viSNE to map healthy and cancerous bone marrow samples. Healthy bone marrow automatically maps into a consistent shape, whereas leukemia samples map into malformed shapes that are distinct from healthy bone marrow and from each other. We also use viSNE and mass cytometry to compare leukemia diagnosis and relapse samples, and to identify a rare leukemia population reminiscent of minimal residual disease. viSNE can be applied to any multi-dimensional single-cell technology. FAU - Amir, El-ad David</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>AAa</b:Tag>
+<b:Title>The technology and biology of single-cell RNA sequencing.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>AA</b:Last>
+<b:First>Kolodziejczyk</b:First>
+</b:Person>
+<b:Person>
+<b:Last>JK</b:Last>
+<b:First>Kim</b:First>
+</b:Person>
+<b:Person>
+<b:Last>V</b:Last>
+<b:First>Svensson</b:First>
+</b:Person>
+<b:Person>
+<b:Last>JC</b:Last>
+<b:First>Marioni</b:First>
+</b:Person>
+<b:Person>
+<b:Last>SA</b:Last>
+<b:First>Teichmann</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK; Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SA, UK. Electronic address: saraht@ebi.ac.uk.,</b:City>
+<b:Issue>1097-2765 (Linking)</b:Issue>
+<b:PublicationTitle>The technology and biology of single-cell RNA sequencing.</b:PublicationTitle>
+<b:BIBTEX_Abstract>The differences between individual cells can have profound functional consequences, in both unicellular and multicellular organisms. Recently developed single-cell mRNA-sequencing methods enable unbiased, high-throughput, and high-resolution transcriptomic analysis of individual cells. This provides an additional dimension to transcriptomic information relative to traditional methods that profile bulk populations of cells. Already, single-cell RNA-sequencing methods have revealed new biology in terms of the composition of tissues, the dynamics of transcription, and the regulatory relationships between genes. Rapid technological developments at the level of cell capture, phenotyping, molecular biology, and bioinformatics promise an exciting future with numerous biological and medical applications.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>botev2010kernel</b:Tag>
+<b:Title>Kernel density estimation via diffusion</b:Title>
+<b:Year>2010</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Botev</b:Last>
+<b:Middle>I</b:Middle>
+<b:First>Zdravko</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Grotowski</b:Last>
+<b:Middle>F</b:Middle>
+<b:First>Joseph</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kroese</b:Last>
+<b:Middle>P</b:Middle>
+<b:First>Dirk</b:First>
+</b:Person>
+<b:Person>
+<b:Last>others</b:Last>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>2916-2957</b:Pages>
+<b:Volume>38</b:Volume>
+<b:Publisher>Institute of Mathematical Statistics</b:Publisher>
+<b:JournalName>The Annals of Statistics</b:JournalName>
+<b:Issue>5</b:Issue>
 </b:Source>
 <b:Source>
 <b:SourceType>Misc</b:SourceType>
@@ -103,526 +172,78 @@
 <b:BIBTEX_Abstract>We describe a method for extracting Boolean implications (if-then relationships) in very large amounts of gene expression microarray data. A meta-analysis of data from thousands of microarrays for humans, mice, and fruit flies finds millions of implication relationships between genes that would be missed by other methods. These relationships capture gender differences, tissue differences, development, and differentiation. New relationships are discovered that are preserved across all three species. FAU - Sahoo, Debashis</b:BIBTEX_Abstract>
 </b:Source>
 <b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>W</b:Tag>
-<b:Title>GOplot: an R package for visually combining expression data with functional      analysis. LID - btv300 [pii]</b:Title>
+<b:SourceType>Report</b:SourceType>
+<b:BIBTEX_Entry>manual</b:BIBTEX_Entry>
+<b:Tag>shiny</b:Tag>
+<b:Title>Package 'shiny': Web Application Framework for R</b:Title>
+<b:Year>2015</b:Year>
 <b:Author>
 <b:Author>
 <b:NameList>
 <b:Person>
-<b:Last>W</b:Last>
-<b:First>Walter</b:First>
+<b:Last>et al.</b:Last>
+<b:Middle>Chang</b:Middle>
+<b:First>Winston</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:City>https://cran.r-project.org/web/packages/shiny/shiny.pdf</b:City>
+<b:Month>August</b:Month>
+<b:URL>http://shiny.rstudio.com</b:URL>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>GK</b:Tag>
+<b:Title>From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>GK</b:Last>
+<b:First>Marinov</b:First>
 </b:Person>
 <b:Person>
-<b:Last>F</b:Last>
-<b:First>Sanchez-Cabo</b:First>
+<b:Last>McCue</b:Last>
+<b:Middle>Williams BA FAU</b:Middle>
+<b:First>Ken</b:First>
 </b:Person>
 <b:Person>
-<b:Last>M</b:Last>
-<b:First>Ricote</b:First>
+<b:Last>Schroth</b:Last>
+<b:Middle>P McCue K FAU</b:Middle>
+<b:First>Gary</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gertz</b:Last>
+<b:Middle>Schroth GP FAU</b:Middle>
+<b:First>Jason</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Myers</b:Last>
+<b:Middle>M Gertz J FAU</b:Middle>
+<b:First>Richard</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Wold</b:Last>
+<b:Middle>J Myers RM FAU</b:Middle>
+<b:First>Barbara</b:First>
+</b:Person>
+<b:Person>
+<b:Last>BJ</b:Last>
+<b:First>Wold</b:First>
 </b:Person>
 </b:NameList>
 </b:Author>
 </b:Author>
 <b:Pages>--</b:Pages>
-<b:City>Department of Cardiovascular Development and Repair and Bioinformatics Unit,      Centro Nacional de Investigaciones Cardiovasculares (CNIC), Madrid, Spain.</b:City>
-<b:Issue>1367-4803 (Linking)</b:Issue>
-<b:PublicationTitle>GOplot: an R package for visually combining expression data with functional      analysis. LID - btv300 [pii]</b:PublicationTitle>
-<b:BIBTEX_Abstract>Despite the plethora of methods available for the functional analysis of omics      data, obtaining comprehensive-yet detailed understanding of the results remains      challenging. This is mainly due to the lack of publicly available tools for the      visualization of this type of information. Here we present an R package called      GOplot, based on ggplot2, for enhanced graphical representation. Our package      takes the output of any general enrichment analysis and generates plots at      different levels of detail: from a general overview to identify the most enriched      categories (bar plot, bubble plot) to a more detailed view displaying different      types of information for molecules in a given set of categories (circle plot,      chord plot, cluster plot). The package provides a deeper insight into omics data       and allows scientists to generate insightful plots with only a few lines of code       to easily communicate the findings. AVAILABILITY AND IMPLEMENTATION: The R      package GOplot is available via CRAN-The Comprehensive R Archive Network:      http://cran.r-project.org/web/packages/GOplot. The shiny web application of the      Venn diagram can be found at: https://wwalter.shinyapps.io/Venn/. A detailed      manual of the package with sample figures can be found at      https://wencke.github.io/ CONTACT: fscabo@cnic.es or mricote@cnic.es.</b:BIBTEX_Abstract>
+<b:City>Division of Biology, California Institute of Technology, Pasadena, California 91125, USA; FAU - Williams, Brian A,</b:City>
+<b:Issue>1088-9051 (Linking)</b:Issue>
+<b:PublicationTitle>From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.</b:PublicationTitle>
+<b:BIBTEX_Abstract>Single-cell RNA-seq mammalian transcriptome studies are at an early stage in uncovering cell-to-cell variation in gene expression, transcript processing and editing, and regulatory module activity. Despite great progress recently, substantial challenges remain, including discriminating biological variation from technical noise. Here we apply the SMART-seq single-cell RNA-seq protocol to study the reference lymphoblastoid cell line GM12878. By using spike-in quantification standards, we estimate the absolute number of RNA molecules per cell for each gene and find significant variation in total mRNA content: between 50,000 and 300,000 transcripts per cell. We directly measure technical stochasticity by a pool/split design and find that there are significant differences in expression between individual cells, over and above technical variation. Specific gene coexpression modules were preferentially expressed in subsets of individual cells, including one enriched for mRNA processing and splicing factors. We assess cell-to-cell variation in alternative splicing and allelic bias and report evidence of significant differences in splice site usage that exceed splice variation in the pool/split comparison. Finally, we show that transcriptomes from small pools of 30-100 cells approach the information content and reproducibility of contemporary RNA-seq from large amounts of input material. Together, our results define an experimental and computational path forward for analyzing gene expression in rare cell types and cell states. FAU - Marinov, Georgi K</b:BIBTEX_Abstract>
 </b:Source>
 <b:Source>
 <b:SourceType>Misc</b:SourceType>
-<b:Tag>AA</b:Tag>
-<b:Title>ARACNE: an algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>AA</b:Last>
-<b:First>Margolin</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Nemenman I FAU Basso</b:Last>
-<b:First>Katia</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Basso K FAU Wiggins</b:Last>
-<b:First>Chris</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Wiggins C FAU Stolovitzky</b:Last>
-<b:First>Gustavo</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Stolovitzky G FAU Dalla Favera</b:Last>
-<b:First>Riccardo</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Dalla Favera R FAU Califano</b:Last>
-<b:First>Andrea</b:First>
-</b:Person>
-<b:Person>
-<b:Last>A</b:Last>
-<b:First>Califano</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA. adam@dbmi.columbia.edu FAU - Nemenman, Ilya</b:City>
-<b:Issue>1471-2105 (Linking)</b:Issue>
-<b:PublicationTitle>ARACNE: an algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context.</b:PublicationTitle>
-<b:BIBTEX_Abstract>BACKGROUND: Elucidating gene regulatory networks is crucial for understanding normal cell physiology and complex pathologic phenotypes. Existing computational methods for the genome-wide "reverse engineering" of such networks have been successful only for lower eukaryotes with simple genomes. Here we present ARACNE, a novel algorithm, using microarray expression profiles, specifically designed to scale up to the complexity of regulatory networks in mammalian cells, yet general enough to address a wider range of network deconvolution problems. This method uses an information theoretic approach to eliminate the majority of indirect interactions inferred by co-expression methods. RESULTS: We prove that ARACNE reconstructs the network exactly (asymptotically) if the effect of loops in the network topology is negligible, and we show that the algorithm works well in practice, even in the presence of numerous loops and complex topologies. We assess ARACNE's ability to reconstruct transcriptional regulatory networks using both a realistic synthetic dataset and a microarray dataset from human B cells. On synthetic datasets ARACNE achieves very low error rates and outperforms established methods, such as Relevance Networks and Bayesian Networks. Application to the deconvolution of genetic networks in human B cells demonstrates ARACNE's ability to infer validated transcriptional targets of the cMYC proto-oncogene. We also study the effects of misestimation of mutual information on network reconstruction, and show that algorithms based on mutual information ranking are more resilient to estimation errors. CONCLUSION: ARACNE shows promise in identifying direct transcriptional interactions in mammalian cellular networks, a problem that has challenged existing reverse engineering algorithms. This approach should enhance our ability to use microarray data to elucidate functional mechanisms that underlie cellular processes and to identify molecular targets of pharmacological compounds in mammalian cellular networks. FAU - Margolin, Adam A</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>S</b:Tag>
-<b:Title>Systems biology. Conditional density-based analysis of T cell signaling in single-cell data.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>S</b:Last>
-<b:First>Krishnaswamy</b:First>
-</b:Person>
-<b:Person>
-<b:Last>MH</b:Last>
-<b:First>Spitzer</b:First>
-</b:Person>
-<b:Person>
-<b:Last>M</b:Last>
-<b:First>Mingueneau</b:First>
-</b:Person>
-<b:Person>
-<b:Last>SC</b:Last>
-<b:First>Bendall</b:First>
-</b:Person>
-<b:Person>
-<b:Last>O</b:Last>
-<b:First>Litvin</b:First>
-</b:Person>
-<b:Person>
-<b:Last>E</b:Last>
-<b:First>Stone</b:First>
-</b:Person>
-<b:Person>
-<b:Last>D</b:Last>
-<b:First>Pe'er</b:First>
-</b:Person>
-<b:Person>
-<b:Last>GP</b:Last>
-<b:First>Nolan</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Baxter Laboratory in Stem Cell Biology, Department of Microbiology and Immunology, Stanford University, Stanford, CA, USA.</b:City>
-<b:Issue>0036-8075 (Linking)</b:Issue>
-<b:PublicationTitle>Systems biology. Conditional density-based analysis of T cell signaling in single-cell data.</b:PublicationTitle>
-<b:BIBTEX_Abstract>Cellular circuits sense the environment, process signals, and compute decisions using networks of interacting proteins. To model such a system, the abundance of each activated protein species can be described as a stochastic function of the abundance of other proteins. High-dimensional single-cell technologies, such as mass cytometry, offer an opportunity to characterize signaling circuit-wide. However, the challenge of developing and applying computational approaches to interpret such complex data remains. Here, we developed computational methods, based on established statistical concepts, to characterize signaling network relationships by quantifying the strengths of network edges and deriving signaling response functions. In comparing signaling between naive and antigen-exposed CD4(+) T lymphocytes, we find that although these two cell subtypes had similarly wired networks, naive cells transmitted more information along a key signaling cascade than did antigen-exposed cells. We validated our characterization on mice lacking the extracellular-regulated mitogen-activated protein kinase (MAPK) ERK2, which showed stronger influence of pERK on pS6 (phosphorylated-ribosomal protein S6), in naive cells as compared with antigen-exposed cells, as predicted. We demonstrate that by using cell-to-cell variation inherent in single-cell data, we can derive response functions underlying molecular circuits and drive the understanding of how cells process signals.</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>AAa</b:Tag>
-<b:Title>The technology and biology of single-cell RNA sequencing.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>AA</b:Last>
-<b:First>Kolodziejczyk</b:First>
-</b:Person>
-<b:Person>
-<b:Last>JK</b:Last>
-<b:First>Kim</b:First>
-</b:Person>
-<b:Person>
-<b:Last>V</b:Last>
-<b:First>Svensson</b:First>
-</b:Person>
-<b:Person>
-<b:Last>JC</b:Last>
-<b:First>Marioni</b:First>
-</b:Person>
-<b:Person>
-<b:Last>SA</b:Last>
-<b:First>Teichmann</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, UK; Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SA, UK. Electronic address: saraht@ebi.ac.uk.</b:City>
-<b:Issue>1097-2765 (Linking)</b:Issue>
-<b:PublicationTitle>The technology and biology of single-cell RNA sequencing.</b:PublicationTitle>
-<b:BIBTEX_Abstract>The differences between individual cells can have profound functional consequences, in both unicellular and multicellular organisms. Recently developed single-cell mRNA-sequencing methods enable unbiased, high-throughput, and high-resolution transcriptomic analysis of individual cells. This provides an additional dimension to transcriptomic information relative to traditional methods that profile bulk populations of cells. Already, single-cell RNA-sequencing methods have revealed new biology in terms of the composition of tissues, the dynamics of transcription, and the regulatory relationships between genes. Rapid technological developments at the level of cell capture, phenotyping, molecular biology, and bioinformatics promise an exciting future with numerous biological and medical applications.</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>JournalArticle</b:SourceType>
-<b:Tag>Csardi2006</b:Tag>
-<b:Title>The igraph software package for complex network research</b:Title>
-<b:Year>2006</b:Year>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>Csardi</b:Last>
-<b:First>Gabor</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Nepusz</b:Last>
-<b:First>Tamas</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>1695</b:Pages>
-<b:Volume>Complex Systems</b:Volume>
-<b:JournalName>InterJournal</b:JournalName>
-<b:URL>http://igraph.org</b:URL>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>P</b:Tag>
-<b:Title>Extracting a cellular hierarchy from high-dimensional cytometry data with SPADE.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>P</b:Last>
-<b:First>Qiu</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Simonds EF FAU Bendall</b:Last>
-<b:Middle>C</b:Middle>
-<b:First>Sean</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Bendall SC FAU Gibbs</b:Last>
-<b:Middle>D Jr</b:Middle>
-<b:First>Kenneth</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Gibbs KD Jr FAU Bruggner</b:Last>
-<b:Middle>V</b:Middle>
-<b:First>Robert</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Bruggner RV FAU Linderman</b:Last>
-<b:Middle>D</b:Middle>
-<b:First>Michael</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Linderman MD FAU Sachs</b:Last>
-<b:First>Karen</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Sachs K FAU Nolan</b:Last>
-<b:Middle>P</b:Middle>
-<b:First>Garry</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Nolan GP FAU Plevritis</b:Last>
-<b:Middle>K</b:Middle>
-<b:First>Sylvia</b:First>
-</b:Person>
-<b:Person>
-<b:Last>SK</b:Last>
-<b:First>Plevritis</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Department of Radiology, Stanford University, Stanford, CA, USA. pqiu@mdanderson.org FAU - Simonds, Erin F</b:City>
-<b:Issue>1087-0156 (Linking)</b:Issue>
-<b:PublicationTitle>Extracting a cellular hierarchy from high-dimensional cytometry data with SPADE.</b:PublicationTitle>
-<b:BIBTEX_Abstract>The ability to analyze multiple single-cell parameters is critical for understanding cellular heterogeneity. Despite recent advances in measurement technology, methods for analyzing high-dimensional single-cell data are often subjective, labor intensive and require prior knowledge of the biological system. To objectively uncover cellular heterogeneity from single-cell measurements, we present a versatile computational approach, spanning-tree progression analysis of density-normalized events (SPADE). We applied SPADE to flow cytometry data of mouse bone marrow and to mass cytometry data of human bone marrow. In both cases, SPADE organized cells in a hierarchy of related phenotypes that partially recapitulated well-described patterns of hematopoiesis. We demonstrate that SPADE is robust to measurement noise and to the choice of cellular markers. SPADE facilitates the analysis of cellular heterogeneity, the identification of cell types and comparison of functional markers in response to perturbations. FAU - Qiu, Peng</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>JournalArticle</b:SourceType>
-<b:Tag>Yates</b:Tag>
-<b:Title>Visualizing Multidimensional Data with Glyph SPLOMs</b:Title>
-<b:Year>2014</b:Year>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>A. Yates</b:Last>
-<b:Middle>Webb, M. Sharpnack H. Chamberlin K. Huang</b:Middle>
-<b:First>A.</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Machiraju</b:Last>
-<b:First>R.</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:JournalName>Eurographics Conference on Visualization (EuroVis)</b:JournalName>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>Aa</b:Tag>
-<b:Title>Independent component analysis: algorithms and applications.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>A</b:Last>
-<b:First>Hyvarinen</b:First>
-</b:Person>
-<b:Person>
-<b:Last>E</b:Last>
-<b:First>Oja</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Neural Networks Research Centre, Helsinki University of Technology, Finland.      aapo.hyvarinen@hut.fi FAU - Oja, E</b:City>
-<b:Issue>0893-6080 (Linking)</b:Issue>
-<b:PublicationTitle>Independent component analysis: algorithms and applications.</b:PublicationTitle>
-<b:BIBTEX_Abstract>A fundamental problem in neural network research, as well as in many other      disciplines, is finding a suitable representation of multivariate data, i.e.      random vectors. For reasons of computational and conceptual simplicity, the      representation is often sought as a linear transformation of the original data.      In other words, each component of the representation is a linear combination of      the original variables. Well-known linear transformation methods include      principal component analysis, factor analysis, and projection pursuit.      Independent component analysis (ICA) is a recently developed method in which the       goal is to find a linear representation of non-Gaussian data so that the      components are statistically independent, or as independent as possible. Such a      representation seems to capture the essential structure of the data in many      applications, including feature extraction and signal separation. In this paper,       we present the basic theory and applications of ICA, and our recent work on the      subject. FAU - Hyvarinen, A</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>L</b:Tag>
-<b:Title>Diffusion maps for high-dimensional single-cell analysis of differentiation data. LID - btv325 [pii]</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>L</b:Last>
-<b:First>Haghverdi</b:First>
-</b:Person>
-<b:Person>
-<b:Last>F</b:Last>
-<b:First>Buettner</b:First>
-</b:Person>
-<b:Person>
-<b:Last>FJ</b:Last>
-<b:First>Theis</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Institute of Computational Biology, Helmholtz Zentrum Munchen 85764 Neuherberg, Germany and Department of Mathematics, Technische Universitat Munchen 85748 Garching, Germany Institute of Computational Biology, Helmholtz Zentrum Munchen 85764 Neuherberg, Germany and Department of Mathematics, Technische Universitat Munchen 85748 Garching, Germany.</b:City>
-<b:Issue>1367-4803 (Linking)</b:Issue>
-<b:PublicationTitle>Diffusion maps for high-dimensional single-cell analysis of differentiation data. LID - btv325 [pii]</b:PublicationTitle>
-<b:BIBTEX_Abstract>MOTIVATION: Single-cell technologies have recently gained popularity in cellular differentiation studies regarding their ability to resolve potential heterogeneities in cell populations. Analyzing such high-dimensional single-cell data has its own statistical and computational challenges. Popular multivariate approaches are based on data normalization, followed by dimension reduction and clustering to identify subgroups. However, in the case of cellular differentiation, we would not expect clear clusters to be present but instead expect the cells to follow continuous branching lineages. RESULTS: Here, we propose the use of diffusion maps to deal with the problem of defining differentiation trajectories. We adapt this method to single-cell data by adequate choice of kernel width and inclusion of uncertainties or missing measurement values, which enables the establishment of a pseudotemporal ordering of single cells in a high-dimensional gene expression space. We expect this output to reflect cell differentiation trajectories, where the data originates from intrinsic diffusion-like dynamics. Starting from a pluripotent stage, cells move smoothly within the transcriptional landscape towards more differentiated states with some stochasticity along their path. We demonstrate the robustness of our method with respect to extrinsic noise (e.g. measurement noise) and sampling density heterogeneities on simulated toy data as well as two single-cell quantitative polymerase chain reaction datasets (i.e. mouse haematopoietic stem cells and mouse embryonic stem cells) and an RNA-Seq data of human pre-implantation embryos. We show that diffusion maps perform considerably better than Principal Component Analysis and are advantageous over other techniques for non-linear dimension reduction such as t-distributed Stochastic Neighbour Embedding for preserving the global structures and pseudotemporal ordering of cells. AVAILABILITY AND IMPLEMENTATION: The Matlab implementation of diffusion maps for single-cell data is available at https://www.helmholtz-muenchen.de/icb/single-cell-diffusion-map. CONTACT: fbuettner.phys@gmail.com, fabian.theis@helmholtz-muenchen.deSupplementary information: Supplementary data are available at Bioinformatics online.</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>PJ</b:Tag>
-<b:Title>A fuzzy logic approach to analyzing gene expression data.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>PJ</b:Last>
-<b:First>Woolf</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Y</b:Last>
-<b:First>Wang</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Bioinformatics, Department of Molecular Biology, Parke-Davis Pharmaceutical Research, Warner-Lanbert, Ann Arbor 48105, USA. FAU - Wang, Y</b:City>
-<b:Issue>1094-8341 (Linking)</b:Issue>
-<b:PublicationTitle>A fuzzy logic approach to analyzing gene expression data.</b:PublicationTitle>
-<b:BIBTEX_Abstract>We have developed a novel algorithm for analyzing gene expression data. This algorithm uses fuzzy logic to transform expression values into qualitative descriptors that can be evaluated by using a set of heuristic rules. In our tests we designed a model to find triplets of activators, repressors, and targets in a yeast gene expression data set. For the conditions tested, the predictions made by the algorithm agree well with experimental data in the literature. The algorithm can also assist in determining the function of uncharacterized proteins and is able to detect a substantially larger number of transcription factors than could be found at random. This technology extends current techniques such as clustering in that it allows the user to generate a connected network of genes using only expression data. FAU - Woolf, P J</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>Pa</b:Tag>
-<b:Title>Modeling gene expression networks using fuzzy logic.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>P</b:Last>
-<b:First>Du</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Gong J FAU Syrkin Wurtele</b:Last>
-<b:First>Eve</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Syrkin Wurtele E FAU Dickerson</b:Last>
-<b:Middle>A</b:Middle>
-<b:First>Julie</b:First>
-</b:Person>
-<b:Person>
-<b:Last>JA</b:Last>
-<b:First>Dickerson</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Virtual Reality Applications Center, Iowa State University, Ames 50011-3060, USA. FAU - Gong, Jian</b:City>
-<b:Issue>1083-4419 (Linking)</b:Issue>
-<b:PublicationTitle>Modeling gene expression networks using fuzzy logic.</b:PublicationTitle>
-<b:BIBTEX_Abstract>Gene regulatory networks model regulation in living organisms. Fuzzy logic can effectively model gene regulation and interaction to accurately reflect the underlying biology. A new multiscale fuzzy clustering method allows genes to interact between regulatory pathways and across different conditions at different levels of detail. Fuzzy cluster centers can be used to quickly discover causal relationships between groups of coregulated genes. Fuzzy measures weight expert knowledge and help quantify uncertainty about the functions of genes using annotations and the gene ontology database to confirm some of the interactions. The method is illustrated using gene expression data from an experiment on carbohydrate metabolism in the model plant Arabidopsis thaliana. Key gene regulatory relationships were evaluated using information from the gene ontology database. A new regulatory relationship concerning trehalose regulation of carbohydrate metabolism was also discovered in the extracted network. FAU - Du, Pan</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>JournalArticle</b:SourceType>
-<b:Tag>szekely2007measuring</b:Tag>
-<b:Title>Measuring and testing dependence by correlation of distances</b:Title>
-<b:Year>2007</b:Year>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>Sz{\'e}kely</b:Last>
-<b:Middle>J</b:Middle>
-<b:First>G{\'a}bor</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Rizzo</b:Last>
-<b:Middle>L</b:Middle>
-<b:First>Maria</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Bakirov</b:Last>
-<b:Middle>K</b:Middle>
-<b:First>Nail</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>2769-2794</b:Pages>
-<b:Volume>35</b:Volume>
-<b:Publisher>Institute of Mathematical Statistics</b:Publisher>
-<b:JournalName>The Annals of Statistics</b:JournalName>
-<b:Issue>6</b:Issue>
-</b:Source>
-<b:Source>
-<b:SourceType>JournalArticle</b:SourceType>
-<b:Tag>Reshef2011</b:Tag>
-<b:Title>Detecting Novel Associations in Large Data Sets</b:Title>
-<b:Year>2011</b:Year>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>Reshef</b:Last>
-<b:Middle>N.</b:Middle>
-<b:First>David</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Reshef</b:Last>
-<b:Middle>A.</b:Middle>
-<b:First>Yakir</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Finucane</b:Last>
-<b:Middle>K.</b:Middle>
-<b:First>Hilary</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Grossman</b:Last>
-<b:Middle>R.</b:Middle>
-<b:First>Sharon</b:First>
-</b:Person>
-<b:Person>
-<b:Last>McVean</b:Last>
-<b:First>Gilean</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Turnbaugh</b:Last>
-<b:Middle>J.</b:Middle>
-<b:First>Peter</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Lander</b:Last>
-<b:Middle>S.</b:Middle>
-<b:First>Eric</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Mitzenmacher</b:Last>
-<b:First>Michael</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Sabeti</b:Last>
-<b:Middle>C.</b:Middle>
-<b:First>Pardis</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>1518-1524</b:Pages>
-<b:Volume>334</b:Volume>
-<b:StandardNumber> DOI: 10.1126/science.1205438</b:StandardNumber>
-<b:JournalName>Science</b:JournalName>
-<b:Issue>6062</b:Issue>
-<b:URL>http://www.sciencemag.org/content/334/6062/1518.abstract</b:URL>
-<b:BIBTEX_Abstract>Identifying interesting relationships between pairs of variables in large data sets is increasingly important. Here, we present a measure of dependence for two-variable relationships: the maximal information coefficient (MIC). MIC captures a wide range of associations both functional and not, and for functional relationships provides a score that roughly equals the coefficient of determination (R2) of the data relative to the regression function. MIC belongs to a larger class of maximal information-based nonparametric exploration (MINE) statistics for identifying and classifying relationships. We apply MIC and MINE to data sets in global health, gene expression, major-league baseball, and the human gut microbiota and identify known and novel relationships.</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>D</b:Tag>
-<b:Title>Extracting binary signals from microarray time-course data.</b:Title>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>D</b:Last>
-<b:First>Sahoo</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Dill DL FAU Tibshirani</b:Last>
-<b:First>Rob</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Tibshirani R FAU Plevritis</b:Last>
-<b:Middle>K</b:Middle>
-<b:First>Sylvia</b:First>
-</b:Person>
-<b:Person>
-<b:Last>SK</b:Last>
-<b:First>Plevritis</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>--</b:Pages>
-<b:City>Department of Electrical Engineering, Stanford University, USA. FAU - Dill, David L</b:City>
-<b:Issue>0305-1048 (Linking)</b:Issue>
-<b:PublicationTitle>Extracting binary signals from microarray time-course data.</b:PublicationTitle>
-<b:BIBTEX_Abstract>This article presents a new method for analyzing microarray time courses by identifying genes that undergo abrupt transitions in expression level, and the time at which the transitions occur. The algorithm matches the sequence of expression levels for each gene against temporal patterns having one or two transitions between two expression levels. The algorithm reports a P-value for the matching pattern of each gene, and a global false discovery rate can also be computed. After matching, genes can be sorted by the direction and time of transitions. Genes can be partitioned into sets based on the direction and time of change for further analysis, such as comparison with Gene Ontology annotations or binding site motifs. The method is evaluated on simulated and actual time-course data. On microarray data for budding yeast, it is shown that the groups of genes that change in similar ways and at similar times have significant and relevant Gene Ontology annotations. FAU - Sahoo, Debashis</b:BIBTEX_Abstract>
-</b:Source>
-<b:Source>
-<b:SourceType>JournalArticle</b:SourceType>
-<b:Tag>Shannon1948</b:Tag>
-<b:Title>A mathematical theory of communication</b:Title>
-<b:Year>1948</b:Year>
-<b:Author>
-<b:Author>
-<b:NameList>
-<b:Person>
-<b:Last>Shannon</b:Last>
-<b:First>C.E.</b:First>
-</b:Person>
-</b:NameList>
-</b:Author>
-</b:Author>
-<b:Pages>379-423</b:Pages>
-<b:Volume>27</b:Volume>
-<b:StandardNumber> ISSN: 0005-8580 DOI: 10.1002/j.1538-7305.1948.tb01338.x</b:StandardNumber>
-<b:JournalName>Bell System Technical Journal, The</b:JournalName>
-<b:Issue>3</b:Issue>
-<b:Month>July</b:Month>
-</b:Source>
-<b:Source>
-<b:SourceType>Misc</b:SourceType>
-<b:Tag>RM</b:Tag>
+<b:Tag>a21</b:Tag>
 <b:Title>Deconstructing transcriptional heterogeneity in pluripotent stem cells.</b:Title>
 <b:Author>
 <b:Author>
@@ -694,76 +315,61 @@
 </b:Source>
 <b:Source>
 <b:SourceType>Misc</b:SourceType>
-<b:Tag>A</b:Tag>
-<b:Title>Brain structure. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq.</b:Title>
+<b:Tag>P</b:Tag>
+<b:Title>Extracting a cellular hierarchy from high-dimensional cytometry data with SPADE.</b:Title>
 <b:Author>
 <b:Author>
 <b:NameList>
 <b:Person>
-<b:Last>A</b:Last>
-<b:First>Zeisel</b:First>
-</b:Person>
-<b:Person>
-<b:Last>AB</b:Last>
-<b:First>Munoz-Manchado</b:First>
-</b:Person>
-<b:Person>
-<b:Last>S</b:Last>
-<b:First>Codeluppi</b:First>
-</b:Person>
-<b:Person>
 <b:Last>P</b:Last>
-<b:First>Lonnerberg</b:First>
+<b:First>Qiu</b:First>
 </b:Person>
 <b:Person>
-<b:Last>G</b:Last>
-<b:Middle>Manno</b:Middle>
-<b:First>La</b:First>
+<b:Last>Simonds EF FAU Bendall</b:Last>
+<b:Middle>C</b:Middle>
+<b:First>Sean</b:First>
 </b:Person>
 <b:Person>
-<b:Last>A</b:Last>
-<b:First>Jureus</b:First>
+<b:Last>Bendall SC FAU Gibbs</b:Last>
+<b:Middle>D Jr</b:Middle>
+<b:First>Kenneth</b:First>
 </b:Person>
 <b:Person>
-<b:Last>S</b:Last>
-<b:First>Marques</b:First>
+<b:Last>Gibbs KD Jr FAU Bruggner</b:Last>
+<b:Middle>V</b:Middle>
+<b:First>Robert</b:First>
 </b:Person>
 <b:Person>
-<b:Last>H</b:Last>
-<b:First>Munguba</b:First>
+<b:Last>Bruggner RV FAU Linderman</b:Last>
+<b:Middle>D</b:Middle>
+<b:First>Michael</b:First>
 </b:Person>
 <b:Person>
-<b:Last>L</b:Last>
-<b:First>He</b:First>
+<b:Last>Linderman MD FAU Sachs</b:Last>
+<b:First>Karen</b:First>
 </b:Person>
 <b:Person>
-<b:Last>C</b:Last>
-<b:First>Betsholtz</b:First>
+<b:Last>Sachs K FAU Nolan</b:Last>
+<b:Middle>P</b:Middle>
+<b:First>Garry</b:First>
 </b:Person>
 <b:Person>
-<b:Last>C</b:Last>
-<b:First>Rolny</b:First>
+<b:Last>Nolan GP FAU Plevritis</b:Last>
+<b:Middle>K</b:Middle>
+<b:First>Sylvia</b:First>
 </b:Person>
 <b:Person>
-<b:Last>G</b:Last>
-<b:First>Castelo-Branco</b:First>
-</b:Person>
-<b:Person>
-<b:Last>J</b:Last>
-<b:First>Hjerling-Leffler</b:First>
-</b:Person>
-<b:Person>
-<b:Last>S</b:Last>
-<b:First>Linnarsson</b:First>
+<b:Last>SK</b:Last>
+<b:First>Plevritis</b:First>
 </b:Person>
 </b:NameList>
 </b:Author>
 </b:Author>
 <b:Pages>--</b:Pages>
-<b:City>Division of Molecular Neurobiology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden. sten.linnarsson@ki.se jens.hjerling-leffler@ki.se.</b:City>
-<b:Issue>0036-8075 (Linking)</b:Issue>
-<b:PublicationTitle>Brain structure. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq.</b:PublicationTitle>
-<b:BIBTEX_Abstract>The mammalian cerebral cortex supports cognitive functions such as sensorimotor integration, memory, and social behaviors. Normal brain function relies on a diverse set of differentiated cell types, including neurons, glia, and vasculature. Here, we have used large-scale single-cell RNA sequencing (RNA-seq) to classify cells in the mouse somatosensory cortex and hippocampal CA1 region. We found 47 molecularly distinct subclasses, comprising all known major cell types in the cortex. We identified numerous marker genes, which allowed alignment with known cell types, morphology, and location. We found a layer I interneuron expressing Pax6 and a distinct postmitotic oligodendrocyte subclass marked by Itpr2. Across the diversity of cortical cell types, transcription factors formed a complex, layered regulatory code, suggesting a mechanism for the maintenance of adult cell type identity.</b:BIBTEX_Abstract>
+<b:City>Department of Radiology, Stanford University, Stanford, CA, USA. pqiu@mdanderson.org FAU - Simonds, Erin F</b:City>
+<b:Issue>1087-0156 (Linking)</b:Issue>
+<b:PublicationTitle>Extracting a cellular hierarchy from high-dimensional cytometry data with SPADE.</b:PublicationTitle>
+<b:BIBTEX_Abstract>The ability to analyze multiple single-cell parameters is critical for understanding cellular heterogeneity. Despite recent advances in measurement technology, methods for analyzing high-dimensional single-cell data are often subjective, labor intensive and require prior knowledge of the biological system. To objectively uncover cellular heterogeneity from single-cell measurements, we present a versatile computational approach, spanning-tree progression analysis of density-normalized events (SPADE). We applied SPADE to flow cytometry data of mouse bone marrow and to mass cytometry data of human bone marrow. In both cases, SPADE organized cells in a hierarchy of related phenotypes that partially recapitulated well-described patterns of hematopoiesis. We demonstrate that SPADE is robust to measurement noise and to the choice of cellular markers. SPADE facilitates the analysis of cellular heterogeneity, the identification of cell types and comparison of functional markers in response to perturbations. FAU - Qiu, Peng</b:BIBTEX_Abstract>
 </b:Source>
 <b:Source>
 <b:SourceType>Misc</b:SourceType>
@@ -836,10 +442,389 @@
 </b:Author>
 </b:Author>
 <b:Pages>--</b:Pages>
-<b:City>Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA. Electronic address: marc@hms.harvard.edu.</b:City>
+<b:City>Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA. Electronic address: marc@hms.harvard.edu.,</b:City>
 <b:Issue>0092-8674 (Linking)</b:Issue>
 <b:PublicationTitle>Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells.</b:PublicationTitle>
 <b:BIBTEX_Abstract>It has long been the dream of biologists to map gene expression at the single-cell level. With such data one might track heterogeneous cell sub-populations, and infer regulatory relationships between genes and pathways. Recently, RNA sequencing has achieved single-cell resolution. What is limiting is an effective way to routinely isolate and process large numbers of individual cells for quantitative in-depth sequencing. We have developed a high-throughput droplet-microfluidic approach for barcoding the RNA from thousands of individual cells for subsequent analysis by next-generation sequencing. The method shows a surprisingly low noise profile and is readily adaptable to other sequencing-based assays. We analyzed mouse embryonic stem cells, revealing in detail the population structure and the heterogeneous onset of differentiation after leukemia inhibitory factor (LIF) withdrawal. The reproducibility of these high-throughput single-cell data allowed us to deconstruct cell populations and infer gene expression relationships. VIDEO ABSTRACT.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>L</b:Tag>
+<b:Title>Diffusion maps for high-dimensional single-cell analysis of differentiation data. LID - btv325 [pii]</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>L</b:Last>
+<b:First>Haghverdi</b:First>
+</b:Person>
+<b:Person>
+<b:Last>F</b:Last>
+<b:First>Buettner</b:First>
+</b:Person>
+<b:Person>
+<b:Last>FJ</b:Last>
+<b:First>Theis</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Institute of Computational Biology, Helmholtz Zentrum Munchen 85764 Neuherberg, Germany and Department of Mathematics, Technische Universitat Munchen 85748 Garching, Germany Institute of Computational Biology, Helmholtz Zentrum Munchen 85764 Neuherberg, Germany and Department of Mathematics, Technische Universitat Munchen 85748 Garching, Germany.</b:City>
+<b:Issue>1367-4803 (Linking)</b:Issue>
+<b:PublicationTitle>Diffusion maps for high-dimensional single-cell analysis of differentiation data. LID - btv325 [pii]</b:PublicationTitle>
+<b:BIBTEX_Abstract>MOTIVATION: Single-cell technologies have recently gained popularity in cellular differentiation studies regarding their ability to resolve potential heterogeneities in cell populations. Analyzing such high-dimensional single-cell data has its own statistical and computational challenges. Popular multivariate approaches are based on data normalization, followed by dimension reduction and clustering to identify subgroups. However, in the case of cellular differentiation, we would not expect clear clusters to be present but instead expect the cells to follow continuous branching lineages. RESULTS: Here, we propose the use of diffusion maps to deal with the problem of defining differentiation trajectories. We adapt this method to single-cell data by adequate choice of kernel width and inclusion of uncertainties or missing measurement values, which enables the establishment of a pseudotemporal ordering of single cells in a high-dimensional gene expression space. We expect this output to reflect cell differentiation trajectories, where the data originates from intrinsic diffusion-like dynamics. Starting from a pluripotent stage, cells move smoothly within the transcriptional landscape towards more differentiated states with some stochasticity along their path. We demonstrate the robustness of our method with respect to extrinsic noise (e.g. measurement noise) and sampling density heterogeneities on simulated toy data as well as two single-cell quantitative polymerase chain reaction datasets (i.e. mouse haematopoietic stem cells and mouse embryonic stem cells) and an RNA-Seq data of human pre-implantation embryos. We show that diffusion maps perform considerably better than Principal Component Analysis and are advantageous over other techniques for non-linear dimension reduction such as t-distributed Stochastic Neighbour Embedding for preserving the global structures and pseudotemporal ordering of cells. AVAILABILITY AND IMPLEMENTATION: The Matlab implementation of diffusion maps for single-cell data is available at https://www.helmholtz-muenchen.de/icb/single-cell-diffusion-map. CONTACT: fbuettner.phys@gmail.com, fabian.theis@helmholtz-muenchen.deSupplementary information: Supplementary data are available at Bioinformatics online.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>PM</b:Tag>
+<b:Title>Reconstructing the temporal ordering of biological samples using microarray data.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>PM</b:Last>
+<b:First>Magwene</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Lizardi P FAU Kim</b:Last>
+<b:First>Junhyong</b:First>
+</b:Person>
+<b:Person>
+<b:Last>J</b:Last>
+<b:First>Kim</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Department of Ecology and Evolutionary Biology, Yale University School of      Medicine, New Haven, CT, USA. FAU - Lizardi, Paul</b:City>
+<b:Issue>1367-4803 (Linking)</b:Issue>
+<b:PublicationTitle>Reconstructing the temporal ordering of biological samples using microarray data.</b:PublicationTitle>
+<b:BIBTEX_Abstract>MOTIVATION: Accurate time series for biological processes are difficult to      estimate due to problems of synchronization, temporal sampling and rate      heterogeneity. Methods are needed that can utilize multi-dimensional data, such      as those resulting from DNA microarray experiments, in order to reconstruct time       series from unordered or poorly ordered sets of observations. RESULTS: We present      a set of algorithms for estimating temporal orderings from unordered sets of      sample elements. The techniques we describe are based on modifications of a      minimum-spanning tree calculated from a weighted, undirected graph. We      demonstrate the efficacy of our approach by applying these techniques to an      artificial data set as well as several gene expression data sets derived from DNA      microarray experiments. In addition to estimating orderings, the techniques we      describe also provide useful heuristics for assessing relevant properties of      sample datasets such as noise and sampling intensity, and we show how a data      structure called a PQ-tree can be used to represent uncertainty in a      reconstructed ordering. AVAILABILITY: Academic implementations of the ordering      algorithms are available as source code (in the programming language Python) on      our web site, along with documentation on their use. The artificial 'jelly roll'       data set upon which the algorithm was tested is also available from this web      site. The publicly available gene expression data may be found at      http://genome-www.stanford.edu/cellcycle/ and      http://caulobacter.stanford.edu/CellCycle/. FAU - Magwene, Paul M</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Shannon1948</b:Tag>
+<b:Title>A mathematical theory of communication</b:Title>
+<b:Year>1948</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Shannon</b:Last>
+<b:First>C.E.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>379-423</b:Pages>
+<b:Volume>27</b:Volume>
+<b:StandardNumber> ISSN: 0005-8580 DOI: 10.1002/j.1538-7305.1948.tb01338.x</b:StandardNumber>
+<b:JournalName>Bell System Technical Journal, The</b:JournalName>
+<b:Issue>3</b:Issue>
+<b:Month>July</b:Month>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>Pa</b:Tag>
+<b:Title>Modeling gene expression networks using fuzzy logic.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>P</b:Last>
+<b:First>Du</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gong J FAU Syrkin Wurtele</b:Last>
+<b:First>Eve</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Syrkin Wurtele E FAU Dickerson</b:Last>
+<b:Middle>A</b:Middle>
+<b:First>Julie</b:First>
+</b:Person>
+<b:Person>
+<b:Last>JA</b:Last>
+<b:First>Dickerson</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Virtual Reality Applications Center, Iowa State University, Ames 50011-3060, USA. FAU - Gong, Jian</b:City>
+<b:Issue>1083-4419 (Linking)</b:Issue>
+<b:PublicationTitle>Modeling gene expression networks using fuzzy logic.</b:PublicationTitle>
+<b:BIBTEX_Abstract>Gene regulatory networks model regulation in living organisms. Fuzzy logic can effectively model gene regulation and interaction to accurately reflect the underlying biology. A new multiscale fuzzy clustering method allows genes to interact between regulatory pathways and across different conditions at different levels of detail. Fuzzy cluster centers can be used to quickly discover causal relationships between groups of coregulated genes. Fuzzy measures weight expert knowledge and help quantify uncertainty about the functions of genes using annotations and the gene ontology database to confirm some of the interactions. The method is illustrated using gene expression data from an experiment on carbohydrate metabolism in the model plant Arabidopsis thaliana. Key gene regulatory relationships were evaluated using information from the gene ontology database. A new regulatory relationship concerning trehalose regulation of carbohydrate metabolism was also discovered in the extracted network. FAU - Du, Pan</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Shalek2013</b:Tag>
+<b:Title>Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells</b:Title>
+<b:Year>2013</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Shalek</b:Last>
+<b:Middle>K.</b:Middle>
+<b:First>Alex</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Satija</b:Last>
+<b:First>Rahul</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Adiconis</b:Last>
+<b:First>Xian</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gertner</b:Last>
+<b:Middle>S.</b:Middle>
+<b:First>Rona</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gaublomme</b:Last>
+<b:Middle>T.</b:Middle>
+<b:First>Jellert</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Raychowdhury</b:Last>
+<b:First>Raktima</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Schwartz</b:Last>
+<b:First>Schraga</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Yosef</b:Last>
+<b:First>Nir</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Malboeuf</b:Last>
+<b:First>Christine</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Lu</b:Last>
+<b:First>Diana</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Trombetta</b:Last>
+<b:Middle>J.</b:Middle>
+<b:First>John</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gennert</b:Last>
+<b:First>Dave</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gnirke</b:Last>
+<b:First>Andreas</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Goren</b:Last>
+<b:First>Alon</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Hacohen</b:Last>
+<b:First>Nir</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Levin</b:Last>
+<b:Middle>Z.</b:Middle>
+<b:First>Joshua</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Park</b:Last>
+<b:First>Hongkun</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Regev</b:Last>
+<b:First>Aviv</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>236-240</b:Pages>
+<b:Volume>498</b:Volume>
+<b:StandardNumber> ISSN: 0028-0836</b:StandardNumber>
+<b:Publisher>Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.</b:Publisher>
+<b:JournalName>Nature</b:JournalName>
+<b:Issue>7453</b:Issue>
+<b:Month>#jun#</b:Month>
+<b:URL>http://dx.doi.org/10.1038/nature12172</b:URL>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>RJ</b:Tag>
+<b:Title>Ensembl BioMarts: a hub for data retrieval across taxonomic space.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>RJ</b:Last>
+<b:First>Kinsella</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Haider</b:Last>
+<b:Middle>Kahari A FAU</b:Middle>
+<b:First>Syed</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Zamora</b:Last>
+<b:Middle>Haider S FAU</b:Middle>
+<b:First>Jorge</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Proctor</b:Last>
+<b:Middle>Zamora J FAU</b:Middle>
+<b:First>Glenn</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Spudich</b:Last>
+<b:Middle>Proctor G FAU</b:Middle>
+<b:First>Giulietta</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Almeida-King</b:Last>
+<b:Middle>Spudich G FAU</b:Middle>
+<b:First>Jeff</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Staines</b:Last>
+<b:Middle>Almeida-King J FAU</b:Middle>
+<b:First>Daniel</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Derwent</b:Last>
+<b:Middle>Staines D FAU</b:Middle>
+<b:First>Paul</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kerhornou</b:Last>
+<b:Middle>Derwent P FAU</b:Middle>
+<b:First>Arnaud</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Kersey</b:Last>
+<b:Middle>Kerhornou A FAU</b:Middle>
+<b:First>Paul</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Flicek</b:Last>
+<b:Middle>Kersey P FAU</b:Middle>
+<b:First>Paul</b:First>
+</b:Person>
+<b:Person>
+<b:Last>P</b:Last>
+<b:First>Flicek</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton,      Cambridge, CB10 1SD, UK. rhoda@ebi.ac.uk FAU - Kahari, Andreas,</b:City>
+<b:Issue>1758-0463 (Linking)</b:Issue>
+<b:PublicationTitle>Ensembl BioMarts: a hub for data retrieval across taxonomic space.</b:PublicationTitle>
+<b:BIBTEX_Abstract>For a number of years the BioMart data warehousing system has proven to be a      valuable resource for scientists seeking a fast and versatile means of accessing       the growing volume of genomic data provided by the Ensembl project. The launch of      the Ensembl Genomes project in 2009 complemented the Ensembl project by utilizing      the same visualization, interactive and programming tools to provide users with a      means for accessing genome data from a further five domains: protists, bacteria,       metazoa, plants and fungi. The Ensembl and Ensembl Genomes BioMarts provide a      point of access to the high-quality gene annotation, variation data, functional      and regulatory annotation and evolutionary relationships from genomes spanning      the taxonomic space. This article aims to give a comprehensive overview of the      Ensembl and Ensembl Genomes BioMarts as well as some useful examples and a      description of current data content and future objectives. Database URLs:      http://www.ensembl.org/biomart/martview/;      http://metazoa.ensembl.org/biomart/martview/;      http://plants.ensembl.org/biomart/martview/;      http://protists.ensembl.org/biomart/martview/;      http://fungi.ensembl.org/biomart/martview/;      http://bacteria.ensembl.org/biomart/martview/. FAU - Kinsella, Rhoda J</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>PJ</b:Tag>
+<b:Title>A fuzzy logic approach to analyzing gene expression data.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>PJ</b:Last>
+<b:First>Woolf</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Y</b:Last>
+<b:First>Wang</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Bioinformatics, Department of Molecular Biology, Parke-Davis Pharmaceutical Research, Warner-Lanbert, Ann Arbor 48105, USA. FAU - Wang, Y</b:City>
+<b:Issue>1094-8341 (Linking)</b:Issue>
+<b:PublicationTitle>A fuzzy logic approach to analyzing gene expression data.</b:PublicationTitle>
+<b:BIBTEX_Abstract>We have developed a novel algorithm for analyzing gene expression data. This algorithm uses fuzzy logic to transform expression values into qualitative descriptors that can be evaluated by using a set of heuristic rules. In our tests we designed a model to find triplets of activators, repressors, and targets in a yeast gene expression data set. For the conditions tested, the predictions made by the algorithm agree well with experimental data in the literature. The algorithm can also assist in determining the function of uncharacterized proteins and is able to detect a substantially larger number of transcription factors than could be found at random. This technology extends current techniques such as clustering in that it allows the user to generate a connected network of genes using only expression data. FAU - Woolf, P J</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Zhang2015</b:Tag>
+<b:Title>Density and Non-Grid based Subspace Clustering via Kernel Density Estimation</b:Title>
+<b:Year>2015</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Zhang</b:Last>
+<b:First>Jing</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Yu</b:Last>
+<b:First>Lantao</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Zhu</b:Last>
+<b:First>Hanqi</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Sun</b:Last>
+<b:First>Gang</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:JournalName>dicode-project.eu</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>AA</b:Tag>
+<b:Title>ARACNE: an algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>AA</b:Last>
+<b:First>Margolin</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Nemenman I FAU Basso</b:Last>
+<b:First>Katia</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Basso K FAU Wiggins</b:Last>
+<b:First>Chris</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Wiggins C FAU Stolovitzky</b:Last>
+<b:First>Gustavo</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Stolovitzky G FAU Dalla Favera</b:Last>
+<b:First>Riccardo</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Dalla Favera R FAU Califano</b:Last>
+<b:First>Andrea</b:First>
+</b:Person>
+<b:Person>
+<b:Last>A</b:Last>
+<b:First>Califano</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Department of Biomedical Informatics, Columbia University, New York, NY 10032, USA. adam@dbmi.columbia.edu FAU - Nemenman, Ilya</b:City>
+<b:Issue>1471-2105 (Linking)</b:Issue>
+<b:PublicationTitle>ARACNE: an algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context.</b:PublicationTitle>
+<b:BIBTEX_Abstract>BACKGROUND: Elucidating gene regulatory networks is crucial for understanding normal cell physiology and complex pathologic phenotypes. Existing computational methods for the genome-wide "reverse engineering" of such networks have been successful only for lower eukaryotes with simple genomes. Here we present ARACNE, a novel algorithm, using microarray expression profiles, specifically designed to scale up to the complexity of regulatory networks in mammalian cells, yet general enough to address a wider range of network deconvolution problems. This method uses an information theoretic approach to eliminate the majority of indirect interactions inferred by co-expression methods. RESULTS: We prove that ARACNE reconstructs the network exactly (asymptotically) if the effect of loops in the network topology is negligible, and we show that the algorithm works well in practice, even in the presence of numerous loops and complex topologies. We assess ARACNE's ability to reconstruct transcriptional regulatory networks using both a realistic synthetic dataset and a microarray dataset from human B cells. On synthetic datasets ARACNE achieves very low error rates and outperforms established methods, such as Relevance Networks and Bayesian Networks. Application to the deconvolution of genetic networks in human B cells demonstrates ARACNE's ability to infer validated transcriptional targets of the cMYC proto-oncogene. We also study the effects of misestimation of mutual information on network reconstruction, and show that algorithms based on mutual information ranking are more resilient to estimation errors. CONCLUSION: ARACNE shows promise in identifying direct transcriptional interactions in mammalian cellular networks, a problem that has challenged existing reverse engineering algorithms. This approach should enhance our ability to use microarray data to elucidate functional mechanisms that underlie cellular processes and to identify molecular targets of pharmacological compounds in mammalian cellular networks. FAU - Margolin, Adam A</b:BIBTEX_Abstract>
 </b:Source>
 <b:Source>
 <b:SourceType>Misc</b:SourceType>
@@ -869,6 +854,302 @@
 <b:Issue>1094-8341 (Linking)</b:Issue>
 <b:PublicationTitle>Increasing the efficiency of fuzzy logic-based gene expression data analysis.</b:PublicationTitle>
 <b:BIBTEX_Abstract>DNA microarray technology can accommodate a multifaceted analysis of the expression of genes in an organism. The wealth of spatiotemporal data generated by this technology allows researchers to potentially reverse engineer a particular genetic network. "Fuzzy logic" has been proposed as a method to analyze the relationships between genes and help decipher a genetic network. This method can identify interacting genes that fit a known "fuzzy" model of gene interaction by testing all combinations of gene expression profiles. This paper introduces improvements made over previous fuzzy gene regulatory models in terms of computation time and robustness to noise. Improvement in computation time is achieved by using a cluster analysis as a preprocessing method to reduce the total number of gene combinations analyzed. This approach speeds up the algorithm by a factor of 50% with minimal effect on the results. The model's sensitivity to noise is reduced by implementing appropriate methods of "fuzzy rule aggregation" and "conjunction" that produce reliable results in the face of minor changes in model input. FAU - Ressom, Habtom</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Yates</b:Tag>
+<b:Title>Visualizing Multidimensional Data with Glyph SPLOMs</b:Title>
+<b:Year>2014</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>A. Yates</b:Last>
+<b:Middle>Webb, M. Sharpnack H. Chamberlin K. Huang</b:Middle>
+<b:First>A.</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Machiraju</b:Last>
+<b:First>R.</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:JournalName>Eurographics Conference on Visualization (EuroVis)</b:JournalName>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>Aa</b:Tag>
+<b:Title>Independent component analysis: algorithms and applications.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>A</b:Last>
+<b:First>Hyvarinen</b:First>
+</b:Person>
+<b:Person>
+<b:Last>E</b:Last>
+<b:First>Oja</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Neural Networks Research Centre, Helsinki University of Technology, Finland.      aapo.hyvarinen@hut.fi FAU - Oja, E,</b:City>
+<b:Issue>0893-6080 (Linking)</b:Issue>
+<b:PublicationTitle>Independent component analysis: algorithms and applications.</b:PublicationTitle>
+<b:BIBTEX_Abstract>A fundamental problem in neural network research, as well as in many other      disciplines, is finding a suitable representation of multivariate data, i.e.      random vectors. For reasons of computational and conceptual simplicity, the      representation is often sought as a linear transformation of the original data.      In other words, each component of the representation is a linear combination of      the original variables. Well-known linear transformation methods include      principal component analysis, factor analysis, and projection pursuit.      Independent component analysis (ICA) is a recently developed method in which the       goal is to find a linear representation of non-Gaussian data so that the      components are statistically independent, or as independent as possible. Such a      representation seems to capture the essential structure of the data in many      applications, including feature extraction and signal separation. In this paper,       we present the basic theory and applications of ICA, and our recent work on the      subject. FAU - Hyvarinen, A</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Csardi2006</b:Tag>
+<b:Title>The igraph software package for complex network research</b:Title>
+<b:Year>2006</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Csardi</b:Last>
+<b:First>Gabor</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Nepusz</b:Last>
+<b:First>Tamas</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1695</b:Pages>
+<b:Volume>Complex Systems</b:Volume>
+<b:JournalName>InterJournal</b:JournalName>
+<b:URL>http://igraph.org</b:URL>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>S</b:Tag>
+<b:Title>Systems biology. Conditional density-based analysis of T cell signaling in single-cell data.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>S</b:Last>
+<b:First>Krishnaswamy</b:First>
+</b:Person>
+<b:Person>
+<b:Last>MH</b:Last>
+<b:First>Spitzer</b:First>
+</b:Person>
+<b:Person>
+<b:Last>M</b:Last>
+<b:First>Mingueneau</b:First>
+</b:Person>
+<b:Person>
+<b:Last>SC</b:Last>
+<b:First>Bendall</b:First>
+</b:Person>
+<b:Person>
+<b:Last>O</b:Last>
+<b:First>Litvin</b:First>
+</b:Person>
+<b:Person>
+<b:Last>E</b:Last>
+<b:First>Stone</b:First>
+</b:Person>
+<b:Person>
+<b:Last>D</b:Last>
+<b:First>Pe'er</b:First>
+</b:Person>
+<b:Person>
+<b:Last>GP</b:Last>
+<b:First>Nolan</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Baxter Laboratory in Stem Cell Biology, Department of Microbiology and Immunology, Stanford University, Stanford, CA, USA.</b:City>
+<b:Issue>0036-8075 (Linking)</b:Issue>
+<b:PublicationTitle>Systems biology. Conditional density-based analysis of T cell signaling in single-cell data.</b:PublicationTitle>
+<b:BIBTEX_Abstract>Cellular circuits sense the environment, process signals, and compute decisions using networks of interacting proteins. To model such a system, the abundance of each activated protein species can be described as a stochastic function of the abundance of other proteins. High-dimensional single-cell technologies, such as mass cytometry, offer an opportunity to characterize signaling circuit-wide. However, the challenge of developing and applying computational approaches to interpret such complex data remains. Here, we developed computational methods, based on established statistical concepts, to characterize signaling network relationships by quantifying the strengths of network edges and deriving signaling response functions. In comparing signaling between naive and antigen-exposed CD4(+) T lymphocytes, we find that although these two cell subtypes had similarly wired networks, naive cells transmitted more information along a key signaling cascade than did antigen-exposed cells. We validated our characterization on mice lacking the extracellular-regulated mitogen-activated protein kinase (MAPK) ERK2, which showed stronger influence of pERK on pS6 (phosphorylated-ribosomal protein S6), in naive cells as compared with antigen-exposed cells, as predicted. We demonstrate that by using cell-to-cell variation inherent in single-cell data, we can derive response functions underlying molecular circuits and drive the understanding of how cells process signals.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>D</b:Tag>
+<b:Title>Extracting binary signals from microarray time-course data.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>D</b:Last>
+<b:First>Sahoo</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Dill DL FAU Tibshirani</b:Last>
+<b:First>Rob</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Tibshirani R FAU Plevritis</b:Last>
+<b:Middle>K</b:Middle>
+<b:First>Sylvia</b:First>
+</b:Person>
+<b:Person>
+<b:Last>SK</b:Last>
+<b:First>Plevritis</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Department of Electrical Engineering, Stanford University, USA. FAU - Dill, David L</b:City>
+<b:Issue>0305-1048 (Linking)</b:Issue>
+<b:PublicationTitle>Extracting binary signals from microarray time-course data.</b:PublicationTitle>
+<b:BIBTEX_Abstract>This article presents a new method for analyzing microarray time courses by identifying genes that undergo abrupt transitions in expression level, and the time at which the transitions occur. The algorithm matches the sequence of expression levels for each gene against temporal patterns having one or two transitions between two expression levels. The algorithm reports a P-value for the matching pattern of each gene, and a global false discovery rate can also be computed. After matching, genes can be sorted by the direction and time of transitions. Genes can be partitioned into sets based on the direction and time of change for further analysis, such as comparison with Gene Ontology annotations or binding site motifs. The method is evaluated on simulated and actual time-course data. On microarray data for budding yeast, it is shown that the groups of genes that change in similar ways and at similar times have significant and relevant Gene Ontology annotations. FAU - Sahoo, Debashis</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:Tag>cai2012utilizing</b:Tag>
+<b:Title>Utilizing RNA-Seq data for cancer network inference</b:Title>
+<b:Year>2012</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Cai</b:Last>
+<b:First>Ying</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Fendler</b:Last>
+<b:First>Bernard</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Atwal</b:Last>
+<b:Middle>S</b:Middle>
+<b:First>Gurinder</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>46-49</b:Pages>
+<b:BookTitle>Genomic Signal Processing and Statistics,(GENSIPS), 2012 IEEE International Workshop on</b:BookTitle>
+<b:ConferenceName>Genomic Signal Processing and Statistics,(GENSIPS), 2012 IEEE International Workshop on</b:ConferenceName>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Reshef2011</b:Tag>
+<b:Title>Detecting Novel Associations in Large Data Sets</b:Title>
+<b:Year>2011</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Reshef</b:Last>
+<b:Middle>N.</b:Middle>
+<b:First>David</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Reshef</b:Last>
+<b:Middle>A.</b:Middle>
+<b:First>Yakir</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Finucane</b:Last>
+<b:Middle>K.</b:Middle>
+<b:First>Hilary</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Grossman</b:Last>
+<b:Middle>R.</b:Middle>
+<b:First>Sharon</b:First>
+</b:Person>
+<b:Person>
+<b:Last>McVean</b:Last>
+<b:First>Gilean</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Turnbaugh</b:Last>
+<b:Middle>J.</b:Middle>
+<b:First>Peter</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Lander</b:Last>
+<b:Middle>S.</b:Middle>
+<b:First>Eric</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Mitzenmacher</b:Last>
+<b:First>Michael</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Sabeti</b:Last>
+<b:Middle>C.</b:Middle>
+<b:First>Pardis</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1518-1524</b:Pages>
+<b:Volume>334</b:Volume>
+<b:StandardNumber> DOI: 10.1126/science.1205438</b:StandardNumber>
+<b:JournalName>Science</b:JournalName>
+<b:Issue>6062</b:Issue>
+<b:URL>http://www.sciencemag.org/content/334/6062/1518.abstract</b:URL>
+<b:BIBTEX_Abstract>Identifying interesting relationships between pairs of variables in large data sets is increasingly important. Here, we present a measure of dependence for two-variable relationships: the maximal information coefficient (MIC). MIC captures a wide range of associations both functional and not, and for functional relationships provides a score that roughly equals the coefficient of determination (R2) of the data relative to the regression function. MIC belongs to a larger class of maximal information-based nonparametric exploration (MINE) statistics for identifying and classifying relationships. We apply MIC and MINE to data sets in global health, gene expression, major-league baseball, and the human gut microbiota and identify known and novel relationships.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>F</b:Tag>
+<b:Title>Computational analysis of cell-to-cell heterogeneity in single-cell      RNA-sequencing data reveals hidden subpopulations of cells.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>F</b:Last>
+<b:First>Buettner</b:First>
+</b:Person>
+<b:Person>
+<b:Last>KN</b:Last>
+<b:First>Natarajan</b:First>
+</b:Person>
+<b:Person>
+<b:Last>FP</b:Last>
+<b:First>Casale</b:First>
+</b:Person>
+<b:Person>
+<b:Last>V</b:Last>
+<b:First>Proserpio</b:First>
+</b:Person>
+<b:Person>
+<b:Last>A</b:Last>
+<b:First>Scialdone</b:First>
+</b:Person>
+<b:Person>
+<b:Last>0000000224191943</b:Last>
+<b:Middle>FJ AUID-ORCID:</b:Middle>
+<b:First>Theis</b:First>
+</b:Person>
+<b:Person>
+<b:Last>SA</b:Last>
+<b:First>Teichmann</b:First>
+</b:Person>
+<b:Person>
+<b:Last>JC</b:Last>
+<b:First>Marioni</b:First>
+</b:Person>
+<b:Person>
+<b:Last>0000000288187193</b:Last>
+<b:Middle>O AUID-ORCID:</b:Middle>
+<b:First>Stegle</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>European Molecular Biology Laboratory, European Bioinformatics Institute,      Wellcome Trust Genome Campus, Hinxton, Cambridge, UK.</b:City>
+<b:Issue>1087-0156 (Linking)</b:Issue>
+<b:PublicationTitle>Computational analysis of cell-to-cell heterogeneity in single-cell      RNA-sequencing data reveals hidden subpopulations of cells.</b:PublicationTitle>
+<b:BIBTEX_Abstract>Recent technical developments have enabled the transcriptomes of hundreds of      cells to be assayed in an unbiased manner, opening up the possibility that new      subpopulations of cells can be found. However, the effects of potential      confounding factors, such as the cell cycle, on the heterogeneity of gene      expression and therefore on the ability to robustly identify subpopulations      remain unclear. We present and validate a computational approach that uses latent      variable models to account for such hidden factors. We show that our single-cell       latent variable model (scLVM) allows the identification of otherwise undetectable      subpopulations of cells that correspond to different stages during the      differentiation of naive T cells into T helper 2 cells. Our approach can be used       not only to identify cellular subpopulations but also to tease apart different      sources of gene expression heterogeneity in single-cell transcriptomes. FAU - Buettner, Florian</b:BIBTEX_Abstract>
 </b:Source>
 <b:Source>
 <b:SourceType>JournalArticle</b:SourceType>
@@ -927,7 +1208,6 @@
 </b:Author>
 <b:Pages>381-386</b:Pages>
 <b:Volume>32</b:Volume>
-<b:StandardNumber> ISSN: 1087-0156</b:StandardNumber>
 <b:Publisher>Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.</b:Publisher>
 <b:JournalName>Nat Biotech</b:JournalName>
 <b:Issue>4</b:Issue>
@@ -936,49 +1216,222 @@
 </b:Source>
 <b:Source>
 <b:SourceType>Misc</b:SourceType>
-<b:Tag>GK</b:Tag>
-<b:Title>From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.</b:Title>
+<b:Tag>W</b:Tag>
+<b:Title>GOplot: an R package for visually combining expression data with functional      analysis. LID - btv300 [pii]</b:Title>
 <b:Author>
 <b:Author>
 <b:NameList>
 <b:Person>
-<b:Last>GK</b:Last>
-<b:First>Marinov</b:First>
+<b:Last>W</b:Last>
+<b:First>Walter</b:First>
 </b:Person>
 <b:Person>
-<b:Last>Williams BA FAU McCue</b:Last>
-<b:First>Ken</b:First>
+<b:Last>F</b:Last>
+<b:First>Sanchez-Cabo</b:First>
 </b:Person>
 <b:Person>
-<b:Last>McCue K FAU Schroth</b:Last>
-<b:Middle>P</b:Middle>
-<b:First>Gary</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Schroth GP FAU Gertz</b:Last>
-<b:First>Jason</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Gertz J FAU Myers</b:Last>
-<b:Middle>M</b:Middle>
-<b:First>Richard</b:First>
-</b:Person>
-<b:Person>
-<b:Last>Myers RM FAU Wold</b:Last>
-<b:Middle>J</b:Middle>
-<b:First>Barbara</b:First>
-</b:Person>
-<b:Person>
-<b:Last>BJ</b:Last>
-<b:First>Wold</b:First>
+<b:Last>M</b:Last>
+<b:First>Ricote</b:First>
 </b:Person>
 </b:NameList>
 </b:Author>
 </b:Author>
 <b:Pages>--</b:Pages>
-<b:City>Division of Biology, California Institute of Technology, Pasadena, California 91125, USA; FAU - Williams, Brian A</b:City>
-<b:Issue>1088-9051 (Linking)</b:Issue>
-<b:PublicationTitle>From single-cell to cell-pool transcriptomes: stochasticity in gene expression and RNA splicing.</b:PublicationTitle>
-<b:BIBTEX_Abstract>Single-cell RNA-seq mammalian transcriptome studies are at an early stage in uncovering cell-to-cell variation in gene expression, transcript processing and editing, and regulatory module activity. Despite great progress recently, substantial challenges remain, including discriminating biological variation from technical noise. Here we apply the SMART-seq single-cell RNA-seq protocol to study the reference lymphoblastoid cell line GM12878. By using spike-in quantification standards, we estimate the absolute number of RNA molecules per cell for each gene and find significant variation in total mRNA content: between 50,000 and 300,000 transcripts per cell. We directly measure technical stochasticity by a pool/split design and find that there are significant differences in expression between individual cells, over and above technical variation. Specific gene coexpression modules were preferentially expressed in subsets of individual cells, including one enriched for mRNA processing and splicing factors. We assess cell-to-cell variation in alternative splicing and allelic bias and report evidence of significant differences in splice site usage that exceed splice variation in the pool/split comparison. Finally, we show that transcriptomes from small pools of 30-100 cells approach the information content and reproducibility of contemporary RNA-seq from large amounts of input material. Together, our results define an experimental and computational path forward for analyzing gene expression in rare cell types and cell states. FAU - Marinov, Georgi K</b:BIBTEX_Abstract>
+<b:City>Department of Cardiovascular Development and Repair and Bioinformatics Unit,      Centro Nacional de Investigaciones Cardiovasculares (CNIC), Madrid, Spain.,</b:City>
+<b:Issue>1367-4803 (Linking)</b:Issue>
+<b:PublicationTitle>GOplot: an R package for visually combining expression data with functional      analysis. LID - btv300 [pii]</b:PublicationTitle>
+<b:BIBTEX_Abstract>Despite the plethora of methods available for the functional analysis of omics      data, obtaining comprehensive-yet detailed understanding of the results remains      challenging. This is mainly due to the lack of publicly available tools for the      visualization of this type of information. Here we present an R package called      GOplot, based on ggplot2, for enhanced graphical representation. Our package      takes the output of any general enrichment analysis and generates plots at      different levels of detail: from a general overview to identify the most enriched      categories (bar plot, bubble plot) to a more detailed view displaying different      types of information for molecules in a given set of categories (circle plot,      chord plot, cluster plot). The package provides a deeper insight into omics data       and allows scientists to generate insightful plots with only a few lines of code       to easily communicate the findings. AVAILABILITY AND IMPLEMENTATION: The R      package GOplot is available via CRAN-The Comprehensive R Archive Network:      http://cran.r-project.org/web/packages/GOplot. The shiny web application of the      Venn diagram can be found at: https://wwalter.shinyapps.io/Venn/. A detailed      manual of the package with sample figures can be found at      https://wencke.github.io/ CONTACT: fscabo@cnic.es or mricote@cnic.es.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>Misc</b:SourceType>
+<b:Tag>A</b:Tag>
+<b:Title>Brain structure. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq.</b:Title>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>A</b:Last>
+<b:First>Zeisel</b:First>
+</b:Person>
+<b:Person>
+<b:Last>AB</b:Last>
+<b:First>Munoz-Manchado</b:First>
+</b:Person>
+<b:Person>
+<b:Last>S</b:Last>
+<b:First>Codeluppi</b:First>
+</b:Person>
+<b:Person>
+<b:Last>P</b:Last>
+<b:First>Lonnerberg</b:First>
+</b:Person>
+<b:Person>
+<b:Last>G</b:Last>
+<b:Middle>Manno</b:Middle>
+<b:First>La</b:First>
+</b:Person>
+<b:Person>
+<b:Last>A</b:Last>
+<b:First>Jureus</b:First>
+</b:Person>
+<b:Person>
+<b:Last>S</b:Last>
+<b:First>Marques</b:First>
+</b:Person>
+<b:Person>
+<b:Last>H</b:Last>
+<b:First>Munguba</b:First>
+</b:Person>
+<b:Person>
+<b:Last>L</b:Last>
+<b:First>He</b:First>
+</b:Person>
+<b:Person>
+<b:Last>C</b:Last>
+<b:First>Betsholtz</b:First>
+</b:Person>
+<b:Person>
+<b:Last>C</b:Last>
+<b:First>Rolny</b:First>
+</b:Person>
+<b:Person>
+<b:Last>G</b:Last>
+<b:First>Castelo-Branco</b:First>
+</b:Person>
+<b:Person>
+<b:Last>J</b:Last>
+<b:First>Hjerling-Leffler</b:First>
+</b:Person>
+<b:Person>
+<b:Last>S</b:Last>
+<b:First>Linnarsson</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>--</b:Pages>
+<b:City>Division of Molecular Neurobiology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, S-171 77 Stockholm, Sweden. sten.linnarsson@ki.se jens.hjerling-leffler@ki.se.,</b:City>
+<b:Issue>0036-8075 (Linking)</b:Issue>
+<b:PublicationTitle>Brain structure. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq.</b:PublicationTitle>
+<b:BIBTEX_Abstract>The mammalian cerebral cortex supports cognitive functions such as sensorimotor integration, memory, and social behaviors. Normal brain function relies on a diverse set of differentiated cell types, including neurons, glia, and vasculature. Here, we have used large-scale single-cell RNA sequencing (RNA-seq) to classify cells in the mouse somatosensory cortex and hippocampal CA1 region. We found 47 molecularly distinct subclasses, comprising all known major cell types in the cortex. We identified numerous marker genes, which allowed alignment with known cell types, morphology, and location. We found a layer I interneuron expressing Pax6 and a distinct postmitotic oligodendrocyte subclass marked by Itpr2. Across the diversity of cortical cell types, transcription factors formed a complex, layered regulatory code, suggesting a mechanism for the maintenance of adult cell type identity.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>Patel12062014</b:Tag>
+<b:Title>Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma</b:Title>
+<b:Year>2014</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Patel</b:Last>
+<b:Middle>P.</b:Middle>
+<b:First>Anoop</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Tirosh</b:Last>
+<b:First>Itay</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Trombetta</b:Last>
+<b:Middle>J.</b:Middle>
+<b:First>John</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Shalek</b:Last>
+<b:Middle>K.</b:Middle>
+<b:First>Alex</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Gillespie</b:Last>
+<b:Middle>M.</b:Middle>
+<b:First>Shawn</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Wakimoto</b:Last>
+<b:First>Hiroaki</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Cahill</b:Last>
+<b:Middle>P.</b:Middle>
+<b:First>Daniel</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Nahed</b:Last>
+<b:Middle>V.</b:Middle>
+<b:First>Brian</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Curry</b:Last>
+<b:Middle>T.</b:Middle>
+<b:First>William</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Martuza</b:Last>
+<b:Middle>L.</b:Middle>
+<b:First>Robert</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Louis</b:Last>
+<b:Middle>N.</b:Middle>
+<b:First>David</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Rozenblatt-Rosen</b:Last>
+<b:First>Orit</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Suvà</b:Last>
+<b:Middle>L.</b:Middle>
+<b:First>Mario</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Regev</b:Last>
+<b:First>Aviv</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Bernstein</b:Last>
+<b:Middle>E.</b:Middle>
+<b:First>Bradley</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:StandardNumber> DOI: 10.1126/science.1254257</b:StandardNumber>
+<b:JournalName>Science</b:JournalName>
+<b:URL>http://www.sciencemag.org/content/early/2014/06/11/science.1254257.abstract</b:URL>
+<b:BIBTEX_Abstract>Human cancers are complex ecosystems composed of cells with distinct phenotypes, genotypes, and epigenetic states, but current models do not adequately reflect tumor composition in patients. We used single-cell RNA sequencing (RNA-seq) to profile 430 cells from five primary glioblastomas, which we found to be inherently variable in their expression of diverse transcriptional programs related to oncogenic signaling, proliferation, complement/immune response, and hypoxia. We also observed a continuum of stemness-related expression states that enabled us to identify putative regulators of stemness in vivo. Finally, we show that established glioblastoma subtype classifiers are variably expressed across individual cells within a tumor and demonstrate the potential prognostic implications of such intratumoral heterogeneity. Thus, we reveal previously unappreciated heterogeneity in diverse regulatory programs central to glioblastoma biology, prognosis, and therapy.</b:BIBTEX_Abstract>
+</b:Source>
+<b:Source>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Tag>szekely2007measuring</b:Tag>
+<b:Title>Measuring and testing dependence by correlation of distances</b:Title>
+<b:Year>2007</b:Year>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Sz{\'e}kely</b:Last>
+<b:Middle>J</b:Middle>
+<b:First>G{\'a}bor</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Rizzo</b:Last>
+<b:Middle>L</b:Middle>
+<b:First>Maria</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Bakirov</b:Last>
+<b:Middle>K</b:Middle>
+<b:First>Nail</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>2769-2794</b:Pages>
+<b:Volume>35</b:Volume>
+<b:Publisher>Institute of Mathematical Statistics</b:Publisher>
+<b:JournalName>The Annals of Statistics</b:JournalName>
+<b:Issue>6</b:Issue>
 </b:Source>
 </b:Sources>
