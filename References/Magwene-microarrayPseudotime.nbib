@@ -1,0 +1,71 @@
+
+PMID- 12724294
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030501
+DCOM- 20040129
+LR  - 20061115
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 19
+IP  - 7
+DP  - 2003 May 1
+TI  - Reconstructing the temporal ordering of biological samples using microarray data.
+PG  - 842-50
+AB  - MOTIVATION: Accurate time series for biological processes are difficult to
+      estimate due to problems of synchronization, temporal sampling and rate
+      heterogeneity. Methods are needed that can utilize multi-dimensional data, such
+      as those resulting from DNA microarray experiments, in order to reconstruct time 
+      series from unordered or poorly ordered sets of observations. RESULTS: We present
+      a set of algorithms for estimating temporal orderings from unordered sets of
+      sample elements. The techniques we describe are based on modifications of a
+      minimum-spanning tree calculated from a weighted, undirected graph. We
+      demonstrate the efficacy of our approach by applying these techniques to an
+      artificial data set as well as several gene expression data sets derived from DNA
+      microarray experiments. In addition to estimating orderings, the techniques we
+      describe also provide useful heuristics for assessing relevant properties of
+      sample datasets such as noise and sampling intensity, and we show how a data
+      structure called a PQ-tree can be used to represent uncertainty in a
+      reconstructed ordering. AVAILABILITY: Academic implementations of the ordering
+      algorithms are available as source code (in the programming language Python) on
+      our web site, along with documentation on their use. The artificial 'jelly roll' 
+      data set upon which the algorithm was tested is also available from this web
+      site. The publicly available gene expression data may be found at
+      http://genome-www.stanford.edu/cellcycle/ and
+      http://caulobacter.stanford.edu/CellCycle/.
+FAU - Magwene, Paul M
+AU  - Magwene PM
+AD  - Department of Ecology and Evolutionary Biology, Yale University School of
+      Medicine, New Haven, CT, USA.
+FAU - Lizardi, Paul
+AU  - Lizardi P
+FAU - Kim, Junhyong
+AU  - Kim J
+LA  - eng
+PT  - Comparative Study
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Validation Studies
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+MH  - *Algorithms
+MH  - Caulobacter crescentus/genetics/metabolism
+MH  - Computer Simulation
+MH  - Gene Expression Profiling/*methods
+MH  - *Models, Genetic
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Saccharomyces cerevisiae/genetics/metabolism
+MH  - Sample Size
+MH  - Sequence Analysis, DNA/*methods
+MH  - *Time Factors
+MH  - Transcription, Genetic/genetics
+EDAT- 2003/05/02 05:00
+MHDA- 2004/01/30 05:00
+CRDT- 2003/05/02 05:00
+PST - ppublish
+SO  - Bioinformatics. 2003 May 1;19(7):842-50.

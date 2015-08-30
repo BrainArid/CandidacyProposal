@@ -1,0 +1,25 @@
+TY  - JOUR
+DB  - PMC
+AU  - Dinalankara, Wikum
+AU  - Bravo, Héctor Corrada
+T1  - Gene Expression Signatures Based on Variability can Robustly Predict Tumor Progression and Prognosis
+SN  - 1176-9351
+Y1  - 2015
+PY  - 2015/06/07
+PY  - 2015/01/09/received
+PY  - 2015/03/22/revised
+PY  - 2015/03/29/accepted
+AB  - Gene expression signatures are commonly used to create cancer prognosis and diagnosis methods, yet only a small number of them are successfully deployed in the clinic since many fail to replicate performance on subsequent validation. A primary reason for this lack of reproducibility is the fact that these signatures attempt to model the highly variable and unstable genomic behavior of cancer. Our group recently introduced gene expression anti-profiles as a robust methodology to derive gene expression signatures based on the observation that while gene expression measurements are highly heterogeneous across tumors of a specific cancer type relative to the normal tissue, their degree of deviation from normal tissue expression in specific genes involved in tissue differentiation is a stable tumor mark that is reproducible across experiments and cancer types. Here we show that constructing gene expression signatures based on variability and the anti-profile approach yields classifiers capable of successfully distinguishing benign growths from cancerous growths based on deviation from normal expression. We then show that this same approach generates stable and reproducible signatures that predict probability of relapse and survival based on tumor gene expression. These results suggest that using the anti-profile framework for the discovery of genomic signatures is an avenue leading to the development of reproducible signatures suitable for adoption in clinical settings. 
+SP  - 71
+EP  - 81
+VL  - 14
+U1  - 25983542[pmid]
+DO  - 10.4137/CIN.S23862
+U1  - cin-14-2015-071[PII]
+AN  - PMC4460970
+UR  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4460970/
+U1  - 26078586[pmid]
+J1  - Cancer Inform
+JF  - Cancer Informatics
+PB  - Libertas Academica
+ER  - 
